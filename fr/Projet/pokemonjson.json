@@ -41,8 +41,8 @@
         "Predominant color": [
             "darkslategray",
             "paleturquoise",
-            "cadetblue",
-            "silver"
+            "darkgray",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -68,7 +68,7 @@
             "gold",
             "darkgray",
             "whitesmoke",
-            "dimgray"
+            "darkolivegreen"
         ],
         "Type 1": "Electric",
         "Generation": 2.0,
@@ -91,10 +91,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
-            "darkgray",
+            "silver",
             "sandybrown",
-            "palegoldenrod"
+            "gray",
+            "indianred"
         ],
         "Type 1": "Fairy",
         "Generation": 7.0,
@@ -117,10 +117,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
-            "darkslategray",
-            "silver",
-            "palegoldenrod"
+            "burlywood",
+            "dimgray",
+            "black",
+            "silver"
         ],
         "Type 1": "Electric",
         "Generation": 6.0,
@@ -170,7 +170,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "cornflowerblue",
-            "slategray",
+            "dimgray",
             "lavender",
             "silver"
         ],
@@ -198,7 +198,7 @@
             "chocolate",
             "sandybrown",
             "darkolivegreen",
-            "silver"
+            "tan"
         ],
         "Type 1": "Fire",
         "Generation": 4.0,
@@ -221,9 +221,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "powderblue",
             "darkseagreen",
             "dimgray",
+            "powderblue",
             "black"
         ],
         "Type 1": "Grass",
@@ -275,8 +275,8 @@
         "Predominant color": [
             "darkslategray",
             "gray",
-            "beige",
-            "silver"
+            "silver",
+            "whitesmoke"
         ],
         "Type 1": "Normal",
         "Generation": 4.0,
@@ -299,10 +299,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
-            "dimgray",
-            "black",
-            "linen"
+            "rosybrown",
+            "darkslategray",
+            "gainsboro",
+            "lightgray"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -325,10 +325,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "tan",
             "darkslategray",
-            "rosybrown",
-            "whitesmoke",
-            "silver"
+            "black",
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -378,7 +378,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "peru",
-            "darkslategray",
+            "dimgray",
             "gainsboro",
             "silver"
         ],
@@ -404,9 +404,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "antiquewhite",
-            "darkkhaki",
-            "dimgray"
+            "peru",
+            "gainsboro",
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 1.0,
@@ -429,7 +429,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gold",
+            "yellow",
             "dimgray",
             "wheat",
             "silver"
@@ -455,9 +455,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "rosybrown",
             "mistyrose",
-            "tan",
-            "gray",
+            "pink",
             "black"
         ],
         "Type 1": "Normal",
@@ -483,8 +483,8 @@
         "Predominant color": [
             "darkgray",
             "lavender",
-            "sandybrown",
-            "darkolivegreen"
+            "dimgray",
+            "sandybrown"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -534,9 +534,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "brown",
+            "sienna",
             "darkgray",
-            "gainsboro"
+            "lightgray"
         ],
         "Type 1": "Dark",
         "Generation": 6.0,
@@ -560,9 +560,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "rosybrown",
-            "darkolivegreen",
-            "gainsboro",
-            "black"
+            "dimgray",
+            "linen",
+            "darkslategray"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -585,9 +585,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "khaki",
-            "seagreen",
-            "snow",
+            "palegoldenrod",
+            "darkseagreen",
+            "darkolivegreen",
             "black"
         ],
         "Type 1": "Grass",
@@ -612,7 +612,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "forestgreen",
-            "sienna",
+            "peru",
             "lightgray",
             "lightgray"
         ],
@@ -663,10 +663,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "thistle",
-            "khaki",
-            "gray",
-            "gainsboro"
+            "pink",
+            "rosybrown",
+            "lightsteelblue",
+            "lavender"
         ],
         "Type 1": "Psychic",
         "Generation": 4.0,
@@ -689,9 +689,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "burlywood",
             "darkslategray",
             "whitesmoke",
-            "khaki",
             "silver"
         ],
         "Type 1": "Normal",
@@ -743,8 +743,8 @@
         "Predominant color": [
             "gray",
             "dimgray",
-            "ghostwhite",
-            "darkslategray"
+            "darkslategray",
+            "whitesmoke"
         ],
         "Type 1": "Fighting",
         "Generation": 7.0,
@@ -767,9 +767,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "wheat",
             "skyblue",
+            "lightgray",
+            "dimgray",
             "black"
         ],
         "Type 1": "Water",
@@ -794,8 +794,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
+            "thistle",
             "rosybrown",
-            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -819,10 +819,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "dimgray",
+            "khaki",
             "peru",
-            "palegoldenrod",
-            "darkolivegreen"
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 2.0,
@@ -845,10 +845,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "sienna",
-            "silver",
-            "black"
+            "lightslategray",
+            "darkslateblue",
+            "chocolate",
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 4.0,
@@ -871,10 +871,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "blanchedalmond",
             "tan",
-            "lemonchiffon",
-            "slategray",
-            "black"
+            "darkslategray",
+            "steelblue"
         ],
         "Type 1": "Electric",
         "Generation": 2.0,
@@ -897,9 +897,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "dimgray",
+            "rosybrown",
             "wheat",
-            "darkslategray",
             "black"
         ],
         "Type 1": "Rock",
@@ -925,7 +925,7 @@
         "Predominant color": [
             "darkslategray",
             "lightgoldenrodyellow",
-            "tan",
+            "rosybrown",
             "silver"
         ],
         "Type 1": "Normal",
@@ -952,7 +952,7 @@
             "darkgray",
             "dimgray",
             "lightcoral",
-            "black"
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -978,7 +978,7 @@
             "rosybrown",
             "palegoldenrod",
             "dimgray",
-            "tan"
+            "black"
         ],
         "Type 1": "Fighting",
         "Generation": 3.0,
@@ -1003,8 +1003,8 @@
         "Predominant color": [
             "darkslategray",
             "slategray",
-            "burlywood",
-            "black"
+            "khaki",
+            "silver"
         ],
         "Type 1": "Poison",
         "Generation": 3.0,
@@ -1027,10 +1027,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
+            "lightslategray",
+            "lightsteelblue",
             "darkslategray",
-            "lightblue",
-            "cadetblue"
+            "dimgray"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -1053,7 +1053,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
+            "black",
             "dimgray",
             "lightsteelblue",
             "silver"
@@ -1079,9 +1079,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "plum",
+            "thistle",
+            "rosybrown",
             "dimgray",
-            "lavender",
             "silver"
         ],
         "Type 1": "Poison",
@@ -1131,10 +1131,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
             "darkgray",
+            "dimgray",
             "darkslategray",
-            "black"
+            "indianred"
         ],
         "Type 1": "Rock",
         "Generation": 3.0,
@@ -1183,9 +1183,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
+            "lightblue",
+            "lightslategray",
             "dimgray",
-            "wheat",
             "silver"
         ],
         "Type 1": "Poison",
@@ -1209,10 +1209,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
-            "cadetblue",
-            "gray",
-            "white"
+            "mistyrose",
+            "darkgray",
+            "slategray",
+            "black"
         ],
         "Type 1": "Dark",
         "Generation": 6.0,
@@ -1261,8 +1261,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
             "paleturquoise",
+            "skyblue",
             "slategray",
             "silver"
         ],
@@ -1287,9 +1287,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
-            "dimgray",
-            "black",
+            "rosybrown",
+            "darkolivegreen",
+            "gainsboro",
             "black"
         ],
         "Type 1": "Normal",
@@ -1339,10 +1339,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "lightslategray",
             "darkslateblue",
-            "lavender",
-            "black"
+            "lightsteelblue",
+            "ghostwhite"
         ],
         "Type 1": "Poison",
         "Generation": 4.0,
@@ -1392,8 +1392,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkgray",
+            "gray",
             "dimgray",
-            "rosybrown",
             "silver"
         ],
         "Type 1": "Fighting",
@@ -1444,8 +1444,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "darkolivegreen",
             "rosybrown",
+            "darkolivegreen",
             "lightgray"
         ],
         "Type 1": "Steel",
@@ -1470,9 +1470,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "gray",
-            "burlywood",
-            "gainsboro"
+            "lightgray",
+            "tan",
+            "gray"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -1497,8 +1497,8 @@
         "Predominant color": [
             "darkslategray",
             "skyblue",
-            "darkkhaki",
-            "black"
+            "goldenrod",
+            "silver"
         ],
         "Type 1": "Electric",
         "Generation": 4.0,
@@ -1524,7 +1524,7 @@
             "sienna",
             "lightslategray",
             "whitesmoke",
-            "silver"
+            "tan"
         ],
         "Type 1": "Rock",
         "Generation": 6.0,
@@ -1602,7 +1602,7 @@
             "khaki",
             "saddlebrown",
             "peru",
-            "peru"
+            "khaki"
         ],
         "Type 1": "Ground",
         "Generation": 4.0,
@@ -1625,9 +1625,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "darkgray",
-            "black",
+            "snow",
+            "gainsboro",
+            "rosybrown",
             "black"
         ],
         "Type 1": "Fairy",
@@ -1651,10 +1651,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "powderblue",
-            "rosybrown",
+            "silver",
             "darkslategray",
-            "darkslategray"
+            "black",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -1703,10 +1703,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "steelblue",
             "darkgray",
+            "darkslateblue",
             "whitesmoke",
-            "darkslategray"
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -1730,8 +1730,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkgray",
-            "black",
-            "black",
+            "lavender",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Electric",
@@ -1756,9 +1756,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mediumseagreen",
-            "indianred",
+            "palevioletred",
             "lightgray",
-            "silver"
+            "dimgray"
         ],
         "Type 1": "Fairy",
         "Generation": 6.0,
@@ -1808,9 +1808,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "gray",
+            "lightslategray",
             "darkslategray",
-            "black"
+            "goldenrod"
         ],
         "Type 1": "Electric",
         "Generation": 4.0,
@@ -1859,9 +1859,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
             "silver",
-            "pink",
+            "rosybrown",
+            "lavender",
             "black"
         ],
         "Type 1": "Water",
@@ -1886,9 +1886,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "thistle",
-            "gray",
-            "black",
-            "black"
+            "darkgray",
+            "darkslategray",
+            "lavender"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -1912,7 +1912,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "cadetblue",
+            "steelblue",
             "indianred",
             "black"
         ],
@@ -1937,10 +1937,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
+            "tan",
             "mistyrose",
-            "gray",
-            "black"
+            "rosybrown",
+            "dimgray"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -1964,8 +1964,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkseagreen",
-            "silver",
-            "darkseagreen",
+            "gray",
+            "palegoldenrod",
             "dimgray"
         ],
         "Type 1": "Electric",
@@ -1989,9 +1989,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavender",
-            "lightslategray",
-            "black",
+            "lightsteelblue",
+            "ghostwhite",
+            "slategray",
             "black"
         ],
         "Type 1": "Dragon",
@@ -2015,10 +2015,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "khaki",
+            "lightcoral",
             "sienna",
-            "palegoldenrod",
-            "rosybrown",
-            "burlywood"
+            "silver"
         ],
         "Type 1": "Fighting",
         "Generation": 5.0,
@@ -2041,9 +2041,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
-            "lightgray",
-            "lightslategray",
+            "whitesmoke",
+            "lightsteelblue",
+            "slategray",
             "silver"
         ],
         "Type 1": "Dragon",
@@ -2121,7 +2121,7 @@
         "Predominant color": [
             "palegoldenrod",
             "peru",
-            "darkolivegreen",
+            "darkslategray",
             "silver"
         ],
         "Type 1": "Fire",
@@ -2146,9 +2146,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightsteelblue",
-            "darkslategray",
-            "slategray",
-            "dimgray"
+            "dimgray",
+            "silver",
+            "chocolate"
         ],
         "Type 1": "Ground",
         "Generation": 4.0,
@@ -2173,7 +2173,7 @@
         "Predominant color": [
             "saddlebrown",
             "gainsboro",
-            "gray",
+            "rosybrown",
             "silver"
         ],
         "Type 1": "Fire",
@@ -2197,10 +2197,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
             "darkseagreen",
             "gray",
-            "rosybrown"
+            "palegoldenrod",
+            "tan"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -2226,7 +2226,7 @@
             "whitesmoke",
             "dimgray",
             "silver",
-            "palegoldenrod"
+            "wheat"
         ],
         "Type 1": "Bug",
         "Generation": 1.0,
@@ -2250,9 +2250,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "slategray",
+            "gray",
             "darkslategray",
-            "silver"
+            "lightgray"
         ],
         "Type 1": "Bug",
         "Generation": 1.0,
@@ -2276,9 +2276,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "peru",
-            "darkgray",
+            "lightslategray",
             "darkslategray",
-            "black"
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 6.0,
@@ -2301,10 +2301,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
+            "palegoldenrod",
+            "darkkhaki",
             "dimgray",
-            "wheat",
-            "black"
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -2329,7 +2329,7 @@
         "Predominant color": [
             "lightblue",
             "gray",
-            "peru",
+            "black",
             "black"
         ],
         "Type 1": "Ground",
@@ -2379,10 +2379,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
+            "moccasin",
             "darkslategray",
             "rosybrown",
-            "lemonchiffon"
+            "black"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -2405,9 +2405,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
+            "darkslateblue",
             "darkslategray",
-            "silver",
+            "rosybrown",
             "silver"
         ],
         "Type 1": "Normal",
@@ -2431,10 +2431,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
             "powderblue",
+            "darkgray",
             "gray",
-            "black"
+            "dimgray"
         ],
         "Type 1": "Fighting",
         "Generation": 1.0,
@@ -2457,7 +2457,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "coral",
+            "peru",
             "lightsteelblue",
             "darkslategray",
             "black"
@@ -2483,9 +2483,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "darkolivegreen",
-            "khaki",
+            "lightsalmon",
+            "dimgray",
+            "mediumpurple",
             "silver"
         ],
         "Type 1": "Bug",
@@ -2511,7 +2511,7 @@
         "Predominant color": [
             "steelblue",
             "mediumturquoise",
-            "gainsboro",
+            "antiquewhite",
             "silver"
         ],
         "Type 1": "Water",
@@ -2536,8 +2536,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "darkkhaki",
-            "black",
+            "sienna",
+            "tan",
             "black"
         ],
         "Type 1": "Rock",
@@ -2561,10 +2561,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
-            "rosybrown",
+            "burlywood",
             "dimgray",
-            "bisque"
+            "darkgray",
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -2589,8 +2589,8 @@
         "Predominant color": [
             "silver",
             "gainsboro",
-            "darkseagreen",
-            "black"
+            "silver",
+            "gray"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -2613,10 +2613,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
-            "palegoldenrod",
+            "burlywood",
             "sienna",
-            "silver"
+            "antiquewhite",
+            "black"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -2640,9 +2640,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "indianred",
-            "darkgray",
+            "silver",
             "lavender",
-            "black"
+            "lightslategray"
         ],
         "Type 1": "Dragon",
         "Generation": 3.0,
@@ -2665,10 +2665,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
             "rosybrown",
+            "gainsboro",
             "darkslategray",
-            "lightcoral"
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -2718,8 +2718,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightblue",
-            "gray",
-            "darkolivegreen",
+            "dimgray",
+            "indianred",
             "silver"
         ],
         "Type 1": "Grass",
@@ -2795,10 +2795,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
             "dimgray",
-            "darkslategray",
-            "darkgray"
+            "palegoldenrod",
+            "silver",
+            "gray"
         ],
         "Type 1": "Fighting",
         "Generation": 7.0,
@@ -2821,10 +2821,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
             "plum",
-            "gainsboro",
-            "dimgray"
+            "gray",
+            "mediumpurple",
+            "gainsboro"
         ],
         "Type 1": "Poison",
         "Generation": 7.0,
@@ -2848,9 +2848,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "pink",
-            "darkgray",
-            "gray",
-            "silver"
+            "mediumpurple",
+            "rosybrown",
+            "darkgray"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -2874,8 +2874,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "peru",
-            "khaki",
+            "sandybrown",
+            "darkslategray",
             "silver"
         ],
         "Type 1": "Dark",
@@ -2925,10 +2925,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
+            "whitesmoke",
+            "silver",
             "coral",
-            "dimgray",
-            "black"
+            "dimgray"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -2951,10 +2951,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
             "darkgray",
+            "whitesmoke",
             "dimgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Fighting",
         "Generation": 3.0,
@@ -2977,9 +2977,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkolivegreen",
-            "indianred",
-            "darkkhaki",
+            "sienna",
+            "rosybrown",
+            "goldenrod",
             "silver"
         ],
         "Type 1": "Fire",
@@ -3032,7 +3032,7 @@
             "skyblue",
             "dimgray",
             "lightcoral",
-            "silver"
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -3056,9 +3056,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "lightgray",
-            "darkgray",
-            "dimgray"
+            "silver",
+            "dimgray",
+            "gray"
         ],
         "Type 1": "Electric",
         "Generation": 7.0,
@@ -3081,10 +3081,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "dimgray",
-            "saddlebrown",
-            "darkslategray"
+            "cadetblue",
+            "darkslategray",
+            "sienna",
+            "maroon"
         ],
         "Type 1": "Dragon",
         "Generation": 4.0,
@@ -3107,10 +3107,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "silver",
             "coral",
             "sienna",
-            "lightgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -3133,10 +3133,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
             "tomato",
-            "coral",
-            "silver"
+            "sienna",
+            "darksalmon",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -3185,7 +3185,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "linen",
+            "gainsboro",
             "tan",
             "dimgray",
             "black"
@@ -3211,10 +3211,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
             "gray",
+            "silver",
             "dimgray",
-            "linen"
+            "silver"
         ],
         "Type 1": "Ghost",
         "Generation": 3.0,
@@ -3237,10 +3237,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "silver",
             "gray",
-            "lightsteelblue",
-            "dimgray",
-            "lavender"
+            "slategray",
+            "black"
         ],
         "Type 1": "Poison",
         "Generation": 1.0,
@@ -3263,7 +3263,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "mediumpurple",
             "dimgray",
             "linen",
             "silver"
@@ -3289,8 +3289,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
-            "gray",
+            "silver",
+            "darkseagreen",
             "saddlebrown",
             "black"
         ],
@@ -3317,8 +3317,8 @@
         "Predominant color": [
             "slategray",
             "darkslategray",
-            "lavender",
-            "silver"
+            "dimgray",
+            "gainsboro"
         ],
         "Type 1": "Rock",
         "Generation": 4.0,
@@ -3367,10 +3367,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mistyrose",
+            "linen",
             "darkgray",
             "darkslategray",
-            "black"
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 1.0,
@@ -3393,10 +3393,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
+            "lavender",
             "darkgray",
-            "whitesmoke",
-            "dimgray"
+            "black",
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -3445,10 +3445,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "slategray",
             "khaki",
-            "lightslategray",
-            "darkslategray",
-            "silver"
+            "silver",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -3523,7 +3523,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "thistle",
+            "gainsboro",
             "darkgray",
             "black",
             "black"
@@ -3549,10 +3549,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "lightsalmon",
+            "peru",
             "sienna",
-            "silver",
-            "black"
+            "silver"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -3578,7 +3578,7 @@
             "khaki",
             "darkkhaki",
             "darkolivegreen",
-            "peru"
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 1.0,
@@ -3601,10 +3601,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
+            "rosybrown",
+            "peru",
             "sienna",
-            "darkolivegreen",
-            "silver"
+            "khaki"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -3627,9 +3627,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
             "lavender",
-            "black",
+            "lightslategray",
+            "darkgray",
             "black"
         ],
         "Type 1": "Water",
@@ -3653,10 +3653,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "pink",
-            "lavender",
+            "thistle",
             "gray",
-            "black"
+            "lavender",
+            "lavender"
         ],
         "Type 1": "Electric",
         "Generation": 2.0,
@@ -3679,10 +3679,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "wheat",
+            "olivedrab",
             "gold",
-            "peru"
+            "palegoldenrod",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 2.0,
@@ -3732,7 +3732,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "rosybrown",
-            "palegoldenrod",
+            "navajowhite",
             "dimgray",
             "silver"
         ],
@@ -3758,7 +3758,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
-            "rosybrown",
+            "darkgray",
             "darkslategray",
             "silver"
         ],
@@ -3835,10 +3835,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "navajowhite",
-            "sienna",
-            "darkgray",
-            "black"
+            "darksalmon",
+            "wheat",
+            "darkolivegreen",
+            "lemonchiffon"
         ],
         "Type 1": "Fire",
         "Generation": 1.0,
@@ -3861,9 +3861,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "peru",
             "darkslategray",
-            "silver",
+            "sandybrown",
+            "skyblue",
             "silver"
         ],
         "Type 1": "Psychic",
@@ -3888,8 +3888,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "thistle",
-            "gray",
+            "darkgray",
+            "black",
             "black"
         ],
         "Type 1": "Bug",
@@ -3913,10 +3913,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
-            "silver",
-            "darkslateblue",
-            "skyblue"
+            "slategray",
+            "darkgray",
+            "lightgray",
+            "dimgray"
         ],
         "Type 1": "Fighting",
         "Generation": 7.0,
@@ -3965,10 +3965,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "indianred",
-            "cadetblue",
-            "silver"
+            "dimgray",
+            "lightslategray",
+            "darkgray",
+            "gainsboro"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -3991,10 +3991,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "skyblue",
-            "lavender",
-            "darkslategray"
+            "steelblue",
+            "powderblue",
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Ice",
         "Generation": 5.0,
@@ -4018,7 +4018,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darksalmon",
-            "darkolivegreen",
+            "dimgray",
             "khaki",
             "silver"
         ],
@@ -4043,10 +4043,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "wheat",
+            "burlywood",
+            "gray",
             "darkolivegreen",
-            "black"
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -4070,9 +4070,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "palegoldenrod",
-            "darkgray",
-            "gray",
-            "rosybrown"
+            "silver",
+            "darkseagreen",
+            "gray"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -4095,9 +4095,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darksalmon",
-            "dimgray",
-            "lightsteelblue",
+            "lightpink",
+            "rosybrown",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Fairy",
@@ -4121,7 +4121,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
+            "lightsteelblue",
             "slategray",
             "silver",
             "black"
@@ -4147,8 +4147,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
-            "linen",
+            "gold",
+            "whitesmoke",
             "sienna",
             "silver"
         ],
@@ -4201,8 +4201,8 @@
         "Predominant color": [
             "skyblue",
             "lavender",
-            "lightslategray",
-            "silver"
+            "silver",
+            "cadetblue"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -4225,9 +4225,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
+            "lightgray",
+            "lightslategray",
             "dimgray",
-            "antiquewhite",
             "silver"
         ],
         "Type 1": "Ground",
@@ -4278,8 +4278,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "paleturquoise",
-            "lightslategray",
-            "wheat",
+            "cadetblue",
+            "tan",
             "silver"
         ],
         "Type 1": "Rock",
@@ -4303,10 +4303,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "dimgray",
+            "lightsteelblue",
             "darkslategray",
-            "mediumaquamarine",
-            "silver",
-            "wheat"
+            "silver"
         ],
         "Type 1": "Fighting",
         "Generation": 4.0,
@@ -4330,8 +4330,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightblue",
-            "dimgray",
-            "silver",
+            "lightslategray",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Rock",
@@ -4355,9 +4355,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "khaki",
             "darkkhaki",
-            "khaki",
-            "khaki",
+            "black",
             "black"
         ],
         "Type 1": "Electric",
@@ -4381,9 +4381,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "thistle",
-            "darkgray",
-            "black",
+            "lavender",
+            "lightsteelblue",
+            "darkseagreen",
             "black"
         ],
         "Type 1": "Dragon",
@@ -4407,9 +4407,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "silver",
-            "darkslategray",
+            "darkolivegreen",
+            "rosybrown",
+            "bisque",
             "black"
         ],
         "Type 1": "Dark",
@@ -4434,9 +4434,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightcoral",
-            "sienna",
+            "indianred",
             "darkslategray",
-            "black"
+            "lightpink"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -4485,9 +4485,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "skyblue",
+            "cadetblue",
             "darkslategray",
+            "lightblue",
             "tan"
         ],
         "Type 1": "Grass",
@@ -4512,7 +4512,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "coral",
-            "sienna",
+            "dimgray",
             "darkslategray",
             "silver"
         ],
@@ -4537,7 +4537,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "dimgray",
             "tan",
             "black",
             "black"
@@ -4590,9 +4590,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightskyblue",
-            "steelblue",
-            "floralwhite",
-            "darkgray"
+            "cornflowerblue",
+            "seashell",
+            "slategray"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -4616,9 +4616,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "silver",
-            "darkgray",
             "lightslategray",
-            "dimgray"
+            "lightgray",
+            "darkslategray"
         ],
         "Type 1": "Ground",
         "Generation": 1.0,
@@ -4641,10 +4641,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
+            "darkgray",
+            "darkslategray",
             "whitesmoke",
-            "dimgray",
-            "darkslategray"
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -4667,10 +4667,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "forestgreen",
+            "darkolivegreen",
+            "goldenrod",
             "darkseagreen",
-            "olivedrab",
-            "goldenrod"
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 4.0,
@@ -4693,10 +4693,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightsteelblue",
             "whitesmoke",
+            "skyblue",
             "slategray",
-            "black"
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 1.0,
@@ -4747,8 +4747,8 @@
         "Predominant color": [
             "khaki",
             "darkkhaki",
-            "lightgray",
-            "black"
+            "gray",
+            "silver"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -4797,9 +4797,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "white",
             "darkslategray",
             "dimgray",
+            "snow",
             "silver"
         ],
         "Type 1": "Poison",
@@ -4823,8 +4823,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightpink",
             "rosybrown",
+            "pink",
             "dimgray",
             "silver"
         ],
@@ -4849,9 +4849,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "powderblue",
-            "silver",
+            "lightgray",
             "indianred",
+            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -4875,10 +4875,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "silver",
-            "darkolivegreen",
-            "silver"
+            "sienna",
+            "wheat",
+            "rosybrown",
+            "lightgray"
         ],
         "Type 1": "Normal",
         "Generation": 6.0,
@@ -4930,7 +4930,7 @@
             "bisque",
             "tan",
             "gray",
-            "silver"
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -4980,9 +4980,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dodgerblue",
-            "darkgray",
             "teal",
-            "silver"
+            "silver",
+            "sienna"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -5031,9 +5031,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
+            "darkslateblue",
             "lavender",
-            "midnightblue",
+            "darkgray",
             "silver"
         ],
         "Type 1": "Steel",
@@ -5059,8 +5059,8 @@
         "Predominant color": [
             "skyblue",
             "cadetblue",
-            "dimgray",
-            "black"
+            "slategray",
+            "darkslategray"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -5084,8 +5084,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "darkgray",
             "sandybrown",
+            "darkgray",
             "silver"
         ],
         "Type 1": "Normal",
@@ -5109,9 +5109,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "gainsboro",
+            "lavender",
             "darkgray",
+            "black",
             "black"
         ],
         "Type 1": "Bug",
@@ -5137,7 +5137,7 @@
         "Predominant color": [
             "darkseagreen",
             "beige",
-            "black",
+            "dimgray",
             "black"
         ],
         "Type 1": "Grass",
@@ -5161,10 +5161,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "ghostwhite",
-            "darkgray",
             "seagreen",
-            "forestgreen"
+            "snow",
+            "darkgray",
+            "silver"
         ],
         "Type 1": "Psychic",
         "Generation": 4.0,
@@ -5189,8 +5189,8 @@
         "Predominant color": [
             "mediumseagreen",
             "tan",
-            "darkolivegreen",
-            "darkgray"
+            "seagreen",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 3.0,
@@ -5214,7 +5214,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightgray",
-            "darkgray",
+            "lightslategray",
             "dimgray",
             "darkkhaki"
         ],
@@ -5241,8 +5241,8 @@
         "Predominant color": [
             "dimgray",
             "darkolivegreen",
-            "wheat",
-            "lightgray"
+            "palegoldenrod",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -5266,7 +5266,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "paleturquoise",
-            "darkgray",
+            "lightslategray",
             "darkslategray",
             "black"
         ],
@@ -5291,10 +5291,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
+            "indianred",
             "burlywood",
-            "sienna",
-            "darkslateblue"
+            "teal",
+            "silver"
         ],
         "Type 1": "Rock",
         "Generation": 5.0,
@@ -5319,8 +5319,8 @@
         "Predominant color": [
             "chocolate",
             "darkolivegreen",
-            "lightgray",
-            "lightgray"
+            "gainsboro",
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -5344,9 +5344,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "rosybrown",
-            "gainsboro",
-            "dimgray",
-            "black"
+            "thistle",
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Flying",
         "Generation": 6.0,
@@ -5396,8 +5396,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "peru",
+            "lightgray",
             "saddlebrown",
-            "bisque",
             "black"
         ],
         "Type 1": "Normal",
@@ -5447,9 +5447,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
             "palegoldenrod",
-            "tan",
+            "peru",
+            "saddlebrown",
             "black"
         ],
         "Type 1": "Normal",
@@ -5473,10 +5473,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "slategray",
             "mediumpurple",
             "darkslateblue",
-            "silver",
-            "black"
+            "silver"
         ],
         "Type 1": "Dark",
         "Generation": 3.0,
@@ -5499,9 +5499,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
+            "peru",
             "darkolivegreen",
-            "tan",
+            "bisque",
             "black"
         ],
         "Type 1": "Normal",
@@ -5552,8 +5552,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "powderblue",
-            "darkseagreen",
-            "darkslategray",
+            "dimgray",
+            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -5577,10 +5577,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
-            "peru",
-            "darkolivegreen",
-            "black"
+            "steelblue",
+            "indianred",
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -5629,8 +5629,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "peru",
-            "dimgray",
+            "rosybrown",
+            "indianred",
             "darkolivegreen",
             "gainsboro"
         ],
@@ -5658,7 +5658,7 @@
             "bisque",
             "rosybrown",
             "darkslategray",
-            "darkslategray"
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -5681,10 +5681,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
-            "snow",
-            "gray",
-            "silver"
+            "gainsboro",
+            "rosybrown",
+            "black",
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -5707,10 +5707,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "lightslategray",
-            "paleturquoise",
-            "silver"
+            "darkslateblue",
+            "powderblue",
+            "darkgray",
+            "gray"
         ],
         "Type 1": "Poison",
         "Generation": 7.0,
@@ -5734,7 +5734,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "lightgray",
+            "silver",
             "darkslategray",
             "black"
         ],
@@ -5760,8 +5760,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "indianred",
-            "whitesmoke",
-            "silver",
+            "linen",
+            "darkgray",
             "black"
         ],
         "Type 1": "Bug",
@@ -5787,8 +5787,8 @@
         "Predominant color": [
             "whitesmoke",
             "darkgray",
-            "dimgray",
-            "black"
+            "silver",
+            "dimgray"
         ],
         "Type 1": "Dragon",
         "Generation": 3.0,
@@ -5865,7 +5865,7 @@
         "Predominant color": [
             "lightsteelblue",
             "dimgray",
-            "silver",
+            "darkgray",
             "black"
         ],
         "Type 1": "Poison",
@@ -5890,9 +5890,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "darkolivegreen",
+            "darkslategray",
             "lightgray",
-            "darkslategray"
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 6.0,
@@ -5915,9 +5915,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "wheat",
+            "lemonchiffon",
+            "tan",
             "dimgray",
-            "black",
             "black"
         ],
         "Type 1": "Normal",
@@ -5941,10 +5941,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "powderblue",
+            "lightblue",
             "darkgray",
-            "black",
-            "black"
+            "paleturquoise",
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -5967,9 +5967,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "pink",
-            "saddlebrown",
             "rosybrown",
+            "saddlebrown",
+            "wheat",
             "silver"
         ],
         "Type 1": "Fighting",
@@ -5994,9 +5994,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkolivegreen",
-            "darkgray",
-            "gainsboro",
-            "palevioletred"
+            "gray",
+            "lightgray",
+            "hotpink"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -6045,10 +6045,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "lightgray",
             "gray",
             "darkslategray",
-            "lightgray",
-            "paleturquoise"
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -6097,10 +6097,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavenderblush",
-            "thistle",
-            "dimgray",
-            "silver"
+            "darkgray",
+            "mistyrose",
+            "black",
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -6123,9 +6123,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
             "seagreen",
-            "gray",
+            "palegoldenrod",
+            "darkseagreen",
             "black"
         ],
         "Type 1": "Water",
@@ -6149,9 +6149,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "linen",
             "rosybrown",
-            "lightgray",
-            "snow",
+            "black",
             "black"
         ],
         "Type 1": "Water",
@@ -6176,8 +6176,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "darkkhaki",
-            "darkolivegreen",
+            "peru",
+            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -6201,10 +6201,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
+            "gray",
+            "darkslategray",
             "wheat",
-            "silver",
-            "black"
+            "silver"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -6227,7 +6227,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgreen",
+            "darkseagreen",
             "dimgray",
             "black",
             "black"
@@ -6254,8 +6254,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "cadetblue",
-            "wheat",
             "darkslategray",
+            "wheat",
             "black"
         ],
         "Type 1": "Normal",
@@ -6279,8 +6279,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "mediumpurple",
+            "dimgray",
             "mediumaquamarine",
             "silver"
         ],
@@ -6307,7 +6307,7 @@
         "Predominant color": [
             "indianred",
             "sienna",
-            "lightseagreen",
+            "mediumturquoise",
             "silver"
         ],
         "Type 1": "Fire",
@@ -6334,7 +6334,7 @@
             "palegoldenrod",
             "darksalmon",
             "sienna",
-            "black"
+            "lavender"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -6357,9 +6357,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "burlywood",
+            "slategray",
             "darkslategray",
-            "khaki",
             "lightgray"
         ],
         "Type 1": "Fairy",
@@ -6383,9 +6383,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "cornflowerblue",
-            "beige",
-            "darkgray",
+            "gainsboro",
+            "mediumturquoise",
+            "slategray",
             "silver"
         ],
         "Type 1": "Water",
@@ -6410,8 +6410,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "steelblue",
-            "darkgray",
-            "antiquewhite",
+            "lightgray",
+            "gray",
             "lightgray"
         ],
         "Type 1": "Water",
@@ -6435,10 +6435,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "cornflowerblue",
-            "linen",
-            "slategray",
-            "darkslategray"
+            "mediumturquoise",
+            "dimgray",
+            "whitesmoke",
+            "darkgray"
         ],
         "Type 1": "Ice",
         "Generation": 3.0,
@@ -6461,10 +6461,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "steelblue",
-            "darkslategray",
+            "dimgray",
+            "tan",
             "indianred",
-            "lightgray"
+            "silver"
         ],
         "Type 1": "Dark",
         "Generation": 2.0,
@@ -6490,7 +6490,7 @@
             "lightpink",
             "indianred",
             "sandybrown",
-            "sienna"
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 4.0,
@@ -6513,10 +6513,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "dimgray",
+            "darkslateblue",
             "cornsilk",
-            "darkgray"
+            "darkgray",
+            "silver"
         ],
         "Type 1": "Poison",
         "Generation": 4.0,
@@ -6541,7 +6541,7 @@
         "Predominant color": [
             "midnightblue",
             "dimgray",
-            "wheat",
+            "silver",
             "black"
         ],
         "Type 1": "Dark",
@@ -6567,8 +6567,8 @@
         "Predominant color": [
             "peru",
             "darkolivegreen",
-            "wheat",
-            "black"
+            "bisque",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 4.0,
@@ -6618,7 +6618,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "saddlebrown",
-            "lightgray",
+            "gainsboro",
             "gold",
             "silver"
         ],
@@ -6643,10 +6643,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "snow",
-            "dimgray",
-            "lavender"
+            "lavender",
+            "slategray",
+            "black",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -6670,7 +6670,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "bisque",
-            "darkkhaki",
+            "peru",
             "sienna",
             "silver"
         ],
@@ -6695,9 +6695,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
+            "thistle",
             "slategray",
-            "black",
+            "silver",
             "black"
         ],
         "Type 1": "Psychic",
@@ -6721,9 +6721,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "darkslategray",
-            "lightgray",
+            "rosybrown",
+            "linen",
             "silver"
         ],
         "Type 1": "Dark",
@@ -6748,7 +6748,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "plum",
-            "gray",
+            "rosybrown",
             "darkslategray",
             "silver"
         ],
@@ -6776,7 +6776,7 @@
             "darksalmon",
             "khaki",
             "darkslategray",
-            "silver"
+            "beige"
         ],
         "Type 1": "Fighting",
         "Generation": 3.0,
@@ -6826,9 +6826,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
-            "silver",
             "darkolivegreen",
-            "olivedrab"
+            "thistle",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -6853,8 +6853,8 @@
         "Predominant color": [
             "white",
             "darkslategray",
-            "rosybrown",
-            "snow"
+            "white",
+            "rosybrown"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -6879,8 +6879,8 @@
         "Predominant color": [
             "silver",
             "khaki",
-            "dimgray",
-            "black"
+            "darkseagreen",
+            "darkolivegreen"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -6904,7 +6904,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "gray",
+            "rosybrown",
             "silver",
             "darkslategray"
         ],
@@ -6929,10 +6929,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavender",
-            "darkgray",
-            "black",
-            "black"
+            "whitesmoke",
+            "lightgray",
+            "gray",
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -6956,9 +6956,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "wheat",
-            "tan",
-            "gray",
-            "darkolivegreen"
+            "white",
+            "snow",
+            "gray"
         ],
         "Type 1": "Ghost",
         "Generation": 7.0,
@@ -6981,9 +6981,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "darkslategray",
             "lightslategray",
-            "darkslategray",
-            "darkslategray",
+            "black",
             "black"
         ],
         "Type 1": "Bug",
@@ -7007,9 +7007,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "dimgray",
             "khaki",
-            "peru",
-            "darkolivegreen",
+            "goldenrod",
             "silver"
         ],
         "Type 1": "Psychic",
@@ -7034,8 +7034,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "mediumturquoise",
-            "slategray",
+            "gainsboro",
+            "cadetblue",
             "silver"
         ],
         "Type 1": "Normal",
@@ -7059,9 +7059,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightpink",
-            "blanchedalmond",
-            "gray",
+            "bisque",
+            "tan",
+            "dimgray",
             "black"
         ],
         "Type 1": "Normal",
@@ -7085,10 +7085,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightsalmon",
+            "burlywood",
             "whitesmoke",
-            "rosybrown",
-            "lightgray"
+            "lightgray",
+            "gray"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -7111,10 +7111,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "wheat",
+            "palegoldenrod",
             "skyblue",
             "gray",
-            "black"
+            "darkslategray"
         ],
         "Type 1": "Electric",
         "Generation": 3.0,
@@ -7165,8 +7165,8 @@
         "Predominant color": [
             "lightsalmon",
             "sienna",
-            "lightsalmon",
-            "darkgray"
+            "darkgray",
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 3.0,
@@ -7192,7 +7192,7 @@
             "goldenrod",
             "black",
             "darkgray",
-            "lightgray"
+            "mistyrose"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -7216,7 +7216,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "darkolivegreen",
+            "darkslategray",
             "gainsboro",
             "silver"
         ],
@@ -7242,7 +7242,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "silver",
-            "darkgray",
+            "rosybrown",
             "dimgray",
             "silver"
         ],
@@ -7267,9 +7267,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "silver",
-            "black",
+            "darkslategray",
+            "lightgray",
+            "darkgray",
             "black"
         ],
         "Type 1": "Dark",
@@ -7295,7 +7295,7 @@
         "Predominant color": [
             "khaki",
             "darkslategray",
-            "gray",
+            "peru",
             "silver"
         ],
         "Type 1": "Electric",
@@ -7321,8 +7321,8 @@
         "Predominant color": [
             "cornflowerblue",
             "darkslateblue",
-            "lightslategray",
-            "gainsboro"
+            "darkgray",
+            "darkslategray"
         ],
         "Type 1": "Psychic",
         "Generation": 7.0,
@@ -7345,10 +7345,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
             "darkslategray",
             "indianred",
-            "black"
+            "wheat",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 2.0,
@@ -7371,10 +7371,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "sienna",
             "peru",
-            "rosybrown"
+            "darkolivegreen",
+            "darkslategray",
+            "darkgray"
         ],
         "Type 1": "Fire",
         "Generation": 7.0,
@@ -7397,9 +7397,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
+            "gray",
+            "darkslategray",
             "limegreen",
-            "darkgray",
             "black"
         ],
         "Type 1": "Grass",
@@ -7423,8 +7423,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "linen",
-            "rosybrown",
+            "antiquewhite",
+            "tan",
             "darkolivegreen",
             "silver"
         ],
@@ -7449,10 +7449,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
             "lightsteelblue",
+            "white",
             "steelblue",
-            "black"
+            "lavender"
         ],
         "Type 1": "Ice",
         "Generation": 5.0,
@@ -7475,10 +7475,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
             "skyblue",
+            "darkslategray",
             "salmon",
-            "indianred"
+            "sienna"
         ],
         "Type 1": "Rock",
         "Generation": 4.0,
@@ -7503,7 +7503,7 @@
         "Predominant color": [
             "yellowgreen",
             "olivedrab",
-            "black",
+            "darkgray",
             "black"
         ],
         "Type 1": "Grass",
@@ -7529,8 +7529,8 @@
         "Predominant color": [
             "darkseagreen",
             "darkolivegreen",
-            "antiquewhite",
-            "darkgray"
+            "beige",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 6.0,
@@ -7633,8 +7633,8 @@
         "Predominant color": [
             "cornflowerblue",
             "slategray",
-            "gainsboro",
-            "darkgray"
+            "lightsteelblue",
+            "lightslategray"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -7658,9 +7658,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "olivedrab",
-            "khaki",
-            "silver",
-            "indianred"
+            "darkkhaki",
+            "palegoldenrod",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 4.0,
@@ -7683,7 +7683,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
+            "white",
             "silver",
             "gray",
             "silver"
@@ -7709,9 +7709,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "gainsboro",
+            "rosybrown",
             "dimgray",
-            "linen",
             "silver"
         ],
         "Type 1": "Bug",
@@ -7737,7 +7737,7 @@
         "Predominant color": [
             "palegoldenrod",
             "darkslategray",
-            "darkkhaki",
+            "rosybrown",
             "black"
         ],
         "Type 1": "Ice",
@@ -7788,9 +7788,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "beige",
-            "darkseagreen",
-            "saddlebrown",
-            "silver"
+            "gray",
+            "darkgray",
+            "saddlebrown"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -7814,9 +7814,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "black",
-            "dimgray",
-            "darkgray"
+            "darkslategray",
+            "gray",
+            "lightgray"
         ],
         "Type 1": "Psychic",
         "Generation": 7.0,
@@ -7839,7 +7839,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "salmon",
+            "lightcoral",
             "sienna",
             "palegoldenrod",
             "black"
@@ -7892,9 +7892,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkgoldenrod",
-            "darkolivegreen",
-            "rosybrown",
-            "gainsboro"
+            "darkslategray",
+            "sienna",
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 5.0,
@@ -7918,7 +7918,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "silver",
-            "lightslategray",
+            "darkgray",
             "dimgray",
             "mediumseagreen"
         ],
@@ -7943,9 +7943,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "lightgray",
-            "dimgray",
+            "silver",
+            "gray",
+            "black",
             "black"
         ],
         "Type 1": "Rock",
@@ -7969,10 +7969,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "white",
+            "snow",
             "darkgray",
             "darkolivegreen",
-            "whitesmoke"
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -8024,7 +8024,7 @@
             "brown",
             "whitesmoke",
             "darkgray",
-            "black"
+            "silver"
         ],
         "Type 1": "Ice",
         "Generation": 2.0,
@@ -8048,8 +8048,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "thistle",
             "darkslategray",
+            "thistle",
             "silver"
         ],
         "Type 1": "Poison",
@@ -8101,8 +8101,8 @@
         "Predominant color": [
             "silver",
             "gray",
-            "gainsboro",
-            "black"
+            "linen",
+            "darkgray"
         ],
         "Type 1": "Bug",
         "Generation": 1.0,
@@ -8151,10 +8151,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "beige",
             "darkslategray",
-            "silver"
+            "beige",
+            "gray",
+            "black"
         ],
         "Type 1": "Poison",
         "Generation": 4.0,
@@ -8177,10 +8177,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "yellowgreen",
             "olivedrab",
-            "black",
-            "black"
+            "yellowgreen",
+            "yellowgreen",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -8205,8 +8205,8 @@
         "Predominant color": [
             "rosybrown",
             "lightgray",
-            "silver",
-            "darkslategray"
+            "dimgray",
+            "silver"
         ],
         "Type 1": "Steel",
         "Generation": 6.0,
@@ -8230,8 +8230,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "silver",
             "darkgray",
+            "lightgray",
             "dimgray"
         ],
         "Type 1": "Bug",
@@ -8281,9 +8281,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
+            "slategray",
             "silver",
-            "skyblue",
+            "darkslategray",
             "silver"
         ],
         "Type 1": "Steel",
@@ -8307,10 +8307,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "saddlebrown",
+            "sienna",
             "gray",
-            "wheat",
-            "silver"
+            "darkolivegreen",
+            "gainsboro"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -8334,9 +8334,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "olivedrab",
-            "darkkhaki",
-            "lemonchiffon",
-            "silver"
+            "palegoldenrod",
+            "silver",
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -8359,10 +8359,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "steelblue",
+            "gray",
             "darkslategray",
-            "black"
+            "steelblue",
+            "silver"
         ],
         "Type 1": "Poison",
         "Generation": 1.0,
@@ -8386,9 +8386,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "khaki",
-            "silver",
-            "black"
+            "darkslategray",
+            "tan",
+            "khaki"
         ],
         "Type 1": "Dark",
         "Generation": 2.0,
@@ -8438,9 +8438,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "darkgray",
+            "silver",
             "dimgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Ice",
         "Generation": 4.0,
@@ -8465,8 +8465,8 @@
         "Predominant color": [
             "coral",
             "sienna",
-            "darkgray",
-            "black"
+            "slategray",
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -8490,9 +8490,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
+            "indianred",
             "darkslateblue",
-            "sienna",
-            "silver"
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 5.0,
@@ -8515,9 +8515,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "dimgray",
+            "gray",
             "thistle",
+            "darkslategray",
             "silver"
         ],
         "Type 1": "Bug",
@@ -8542,8 +8542,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "indianred",
-            "darkslategray",
+            "sienna",
+            "darkgray",
             "black"
         ],
         "Type 1": "Bug",
@@ -8569,8 +8569,8 @@
         "Predominant color": [
             "mediumaquamarine",
             "darkslategray",
-            "burlywood",
-            "dimgray"
+            "tan",
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 5.0,
@@ -8594,9 +8594,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightsalmon",
-            "lightgray",
-            "lightsalmon",
-            "gray"
+            "silver",
+            "gray",
+            "black"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -8619,9 +8619,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
             "rosybrown",
-            "darkolivegreen",
+            "lightgray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Rock",
@@ -8645,9 +8645,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palevioletred",
+            "lightcoral",
             "forestgreen",
-            "black",
+            "rosybrown",
             "black"
         ],
         "Type 1": "Grass",
@@ -8671,9 +8671,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
-            "gainsboro",
-            "dimgray",
+            "lightslategray",
+            "powderblue",
+            "black",
             "black"
         ],
         "Type 1": "Water",
@@ -8698,9 +8698,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightblue",
+            "lightslategray",
             "slategray",
-            "silver",
-            "paleturquoise"
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -8725,7 +8725,7 @@
         "Predominant color": [
             "lightgray",
             "indianred",
-            "gray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Bug",
@@ -8801,7 +8801,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "antiquewhite",
+            "gainsboro",
             "lightslategray",
             "skyblue",
             "darkslategray"
@@ -8829,8 +8829,8 @@
         "Predominant color": [
             "beige",
             "mediumturquoise",
-            "lightslategray",
-            "black"
+            "darkgray",
+            "slategray"
         ],
         "Type 1": "Ice",
         "Generation": 3.0,
@@ -8854,7 +8854,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "olivedrab",
-            "antiquewhite",
+            "bisque",
             "darkkhaki",
             "black"
         ],
@@ -8881,7 +8881,7 @@
         "Predominant color": [
             "white",
             "darkslategray",
-            "indianred",
+            "sienna",
             "tan"
         ],
         "Type 1": "Fire",
@@ -8905,7 +8905,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "oldlace",
+            "seashell",
             "teal",
             "darkgray",
             "silver"
@@ -8931,10 +8931,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
+            "lightgray",
             "darkgray",
-            "darkgoldenrod",
-            "dimgray"
+            "sienna",
+            "goldenrod"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -8983,10 +8983,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "bisque",
-            "rosybrown",
-            "darkolivegreen",
-            "silver"
+            "blanchedalmond",
+            "tan",
+            "dimgray",
+            "darkgray"
         ],
         "Type 1": "Normal",
         "Generation": 1.0,
@@ -9037,8 +9037,8 @@
         "Predominant color": [
             "darkslategray",
             "whitesmoke",
-            "darkgray",
-            "black"
+            "lightslategray",
+            "silver"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -9061,10 +9061,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "dimgray",
-            "gainsboro",
-            "black"
+            "thistle",
+            "gray",
+            "plum",
+            "dimgray"
         ],
         "Type 1": "Normal",
         "Generation": 1.0,
@@ -9088,8 +9088,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
+            "linen",
             "darkslategray",
-            "whitesmoke",
             "black"
         ],
         "Type 1": "Normal",
@@ -9113,10 +9113,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "black",
-            "lightgray",
-            "silver"
+            "darkslategray",
+            "rosybrown",
+            "gainsboro",
+            "black"
         ],
         "Type 1": "Dark",
         "Generation": 2.0,
@@ -9140,8 +9140,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "rosybrown",
-            "wheat",
+            "palegoldenrod",
+            "indianred",
             "black"
         ],
         "Type 1": "Electric",
@@ -9165,10 +9165,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
             "palegoldenrod",
+            "teal",
             "rosybrown",
-            "black"
+            "darkslategray"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -9191,10 +9191,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lemonchiffon",
-            "tan",
-            "gray",
-            "darkolivegreen"
+            "palegoldenrod",
+            "darkseagreen",
+            "darkolivegreen",
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -9217,9 +9217,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "peru",
+            "sienna",
             "gainsboro",
-            "black",
+            "sandybrown",
             "black"
         ],
         "Type 1": "Water",
@@ -9245,7 +9245,7 @@
         "Predominant color": [
             "darkslategray",
             "pink",
-            "darkgray",
+            "silver",
             "gray"
         ],
         "Type 1": "Normal",
@@ -9269,10 +9269,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "khaki",
+            "gold",
             "darkolivegreen",
-            "black",
-            "black"
+            "darkslategray",
+            "darkkhaki"
         ],
         "Type 1": "Psychic",
         "Generation": 1.0,
@@ -9296,9 +9296,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "lightslategray",
-            "darkslategray",
-            "lightgray"
+            "gray",
+            "darkgray",
+            "darkslategray"
         ],
         "Type 1": "Rock",
         "Generation": 7.0,
@@ -9322,9 +9322,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "rosybrown",
             "linen",
-            "black"
+            "lightcoral",
+            "gray"
         ],
         "Type 1": "Ground",
         "Generation": 3.0,
@@ -9350,7 +9350,7 @@
             "black",
             "slategray",
             "lightsteelblue",
-            "silver"
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -9373,9 +9373,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "silver",
             "dimgray",
-            "bisque",
+            "black",
             "black"
         ],
         "Type 1": "Grass",
@@ -9452,7 +9452,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gold",
-            "olivedrab",
+            "peru",
             "whitesmoke",
             "silver"
         ],
@@ -9478,8 +9478,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "wheat",
-            "gray",
             "dimgray",
+            "black",
             "black"
         ],
         "Type 1": "Bug",
@@ -9503,9 +9503,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "burlywood",
+            "rosybrown",
             "dimgray",
-            "mediumpurple",
+            "palegoldenrod",
             "silver"
         ],
         "Type 1": "Normal",
@@ -9529,8 +9529,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "silver",
             "darkgray",
-            "gainsboro",
             "dimgray",
             "black"
         ],
@@ -9555,9 +9555,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "paleturquoise",
-            "skyblue",
-            "slategray",
+            "lightblue",
+            "lightslategray",
+            "lightcyan",
             "silver"
         ],
         "Type 1": "Water",
@@ -9582,9 +9582,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "steelblue",
-            "gainsboro",
-            "darkgray",
-            "lightblue"
+            "paleturquoise",
+            "silver",
+            "lightslategray"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -9633,9 +9633,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "wheat",
             "darkslategray",
-            "black",
+            "wheat",
+            "darkgray",
             "black"
         ],
         "Type 1": "Water",
@@ -9659,10 +9659,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "khaki",
+            "palegoldenrod",
             "gray",
             "lightcoral",
-            "gainsboro"
+            "lightgray"
         ],
         "Type 1": "Grass",
         "Generation": 2.0,
@@ -9687,7 +9687,7 @@
         "Predominant color": [
             "darkgray",
             "pink",
-            "darkslategray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Rock",
@@ -9712,8 +9712,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "lightblue",
-            "lightslategray",
+            "darkgray",
+            "skyblue",
             "black"
         ],
         "Type 1": "Electric",
@@ -9737,10 +9737,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
             "darkolivegreen",
-            "dimgray",
-            "tan"
+            "sienna",
+            "tomato",
+            "rosybrown"
         ],
         "Type 1": "Fire",
         "Generation": 7.0,
@@ -9765,7 +9765,7 @@
         "Predominant color": [
             "palegoldenrod",
             "darkseagreen",
-            "dimgray",
+            "darkolivegreen",
             "silver"
         ],
         "Type 1": "Rock",
@@ -9815,7 +9815,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "cadetblue",
+            "steelblue",
             "darkslategray",
             "darkgray",
             "black"
@@ -9844,7 +9844,7 @@
             "darkgray",
             "dimgray",
             "silver",
-            "whitesmoke"
+            "linen"
         ],
         "Type 1": "Normal",
         "Generation": 4.0,
@@ -9896,7 +9896,7 @@
             "rosybrown",
             "dimgray",
             "lightgray",
-            "black"
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 3.0,
@@ -9919,10 +9919,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
-            "white",
             "dimgray",
-            "rosybrown"
+            "white",
+            "white",
+            "gainsboro"
         ],
         "Type 1": "Normal",
         "Generation": 7.0,
@@ -9945,10 +9945,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
+            "ghostwhite",
             "silver",
             "indianred",
-            "darkgray"
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -9972,7 +9972,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "snow",
+            "whitesmoke",
             "tan",
             "dimgray"
         ],
@@ -9997,9 +9997,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "dimgray",
+            "silver",
             "seagreen",
-            "gray",
-            "wheat",
             "silver"
         ],
         "Type 1": "Grass",
@@ -10024,9 +10024,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
-            "darkolivegreen",
             "lavender",
-            "silver"
+            "darkslategray",
+            "lightgray"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -10049,10 +10049,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "goldenrod",
-            "sienna",
+            "sandybrown",
+            "orange",
             "tan",
-            "black"
+            "sienna"
         ],
         "Type 1": "Fire",
         "Generation": 1.0,
@@ -10075,10 +10075,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "burlywood",
-            "dimgray",
-            "lightgoldenrodyellow",
-            "silver"
+            "khaki",
+            "darkkhaki",
+            "antiquewhite",
+            "dimgray"
         ],
         "Type 1": "Dragon",
         "Generation": 1.0,
@@ -10156,7 +10156,7 @@
             "linen",
             "tan",
             "dimgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 1.0,
@@ -10205,10 +10205,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
             "goldenrod",
-            "silver",
-            "linen"
+            "darkolivegreen",
+            "black",
+            "lightgray"
         ],
         "Type 1": "Fire",
         "Generation": 5.0,
@@ -10233,8 +10233,8 @@
         "Predominant color": [
             "darkseagreen",
             "wheat",
-            "dimgray",
-            "lightgray"
+            "darkolivegreen",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -10257,9 +10257,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "darkgray",
-            "lightcyan",
+            "dimgray",
+            "gainsboro",
             "silver"
         ],
         "Type 1": "Electric",
@@ -10283,9 +10283,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "gainsboro",
+            "lightgray",
             "darkgray",
+            "gray",
             "dimgray"
         ],
         "Type 1": "Bug",
@@ -10335,10 +10335,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "crimson",
-            "gray",
-            "saddlebrown",
-            "lavender"
+            "firebrick",
+            "darkolivegreen",
+            "rosybrown",
+            "whitesmoke"
         ],
         "Type 1": "Ground",
         "Generation": 3.0,
@@ -10361,9 +10361,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightskyblue",
-            "cadetblue",
-            "darkslateblue",
+            "skyblue",
+            "steelblue",
+            "lightsteelblue",
             "black"
         ],
         "Type 1": "Psychic",
@@ -10413,9 +10413,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
             "lightsteelblue",
-            "khaki",
+            "dimgray",
+            "palegoldenrod",
             "silver"
         ],
         "Type 1": "Normal",
@@ -10441,7 +10441,7 @@
         "Predominant color": [
             "steelblue",
             "lightsteelblue",
-            "darkslategray",
+            "black",
             "black"
         ],
         "Type 1": "Water",
@@ -10465,8 +10465,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightsteelblue",
-            "lavender",
+            "darkgray",
+            "gainsboro",
             "slategray",
             "silver"
         ],
@@ -10543,9 +10543,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "burlywood",
             "sienna",
-            "thistle",
+            "black",
             "black"
         ],
         "Type 1": "Bug",
@@ -10571,7 +10571,7 @@
         "Predominant color": [
             "rosybrown",
             "darkolivegreen",
-            "wheat",
+            "palegoldenrod",
             "silver"
         ],
         "Type 1": "Normal",
@@ -10597,8 +10597,8 @@
         "Predominant color": [
             "silver",
             "gray",
-            "gray",
-            "dimgray"
+            "darkolivegreen",
+            "black"
         ],
         "Type 1": "Fighting",
         "Generation": 1.0,
@@ -10621,10 +10621,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "antiquewhite",
             "rosybrown",
-            "lightgray",
-            "dimgray",
-            "snow"
+            "darkolivegreen",
+            "gray"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -10649,7 +10649,7 @@
         "Predominant color": [
             "peru",
             "khaki",
-            "sienna",
+            "saddlebrown",
             "silver"
         ],
         "Type 1": "Rock",
@@ -10674,8 +10674,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "lightslategray",
-            "lavender",
+            "slategray",
+            "paleturquoise",
             "silver"
         ],
         "Type 1": "Water",
@@ -10699,10 +10699,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "whitesmoke",
-            "silver",
-            "darkslategray"
+            "lightslategray",
+            "gainsboro",
+            "darkslategray",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -10725,10 +10725,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
             "darkslategray",
             "steelblue",
-            "black"
+            "wheat",
+            "paleturquoise"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -10752,9 +10752,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "rosybrown",
-            "silver",
-            "lightgoldenrodyellow"
+            "tan",
+            "dimgray",
+            "silver"
         ],
         "Type 1": "Electric",
         "Generation": 5.0,
@@ -10777,10 +10777,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
+            "darkolivegreen",
+            "gainsboro",
             "darkkhaki",
-            "antiquewhite",
-            "darkgray"
+            "sandybrown"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -10803,10 +10803,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "lightsteelblue",
             "lightyellow",
-            "silver",
-            "skyblue",
-            "dimgray"
+            "slategray",
+            "cornsilk"
         ],
         "Type 1": "Ice",
         "Generation": 3.0,
@@ -10829,8 +10829,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightblue",
-            "lightslategray",
+            "skyblue",
+            "slategray",
             "wheat",
             "silver"
         ],
@@ -10855,10 +10855,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "yellowgreen",
-            "steelblue",
-            "silver",
-            "darkolivegreen"
+            "darkseagreen",
+            "slategray",
+            "olivedrab",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -10881,9 +10881,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkseagreen",
-            "whitesmoke",
-            "black",
+            "silver",
+            "ghostwhite",
+            "gray",
             "black"
         ],
         "Type 1": "Psychic",
@@ -10908,8 +10908,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "gray",
             "mediumaquamarine",
+            "gray",
             "silver"
         ],
         "Type 1": "Grass",
@@ -10935,7 +10935,7 @@
         "Predominant color": [
             "darkgray",
             "whitesmoke",
-            "darkslategray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Steel",
@@ -11038,7 +11038,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "slategray",
+            "cadetblue",
             "darkslategray",
             "tan"
         ],
@@ -11089,8 +11089,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "steelblue",
-            "darkslategray",
+            "teal",
+            "cadetblue",
             "black",
             "black"
         ],
@@ -11116,7 +11116,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightpink",
-            "ghostwhite",
+            "whitesmoke",
             "lightslategray",
             "silver"
         ],
@@ -11142,9 +11142,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "steelblue",
-            "gainsboro",
-            "midnightblue",
-            "brown"
+            "lavender",
+            "brown",
+            "darkgray"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -11167,9 +11167,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkcyan",
+            "teal",
             "lightgray",
-            "darkslategray",
+            "steelblue",
             "silver"
         ],
         "Type 1": "Water",
@@ -11220,9 +11220,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "wheat",
-            "rosybrown",
-            "darkgray",
-            "darkslategray"
+            "gray",
+            "black",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -11247,7 +11247,7 @@
         "Predominant color": [
             "cadetblue",
             "darkslategray",
-            "darkgray",
+            "lightslategray",
             "lightgray"
         ],
         "Type 1": "Steel",
@@ -11274,7 +11274,7 @@
             "darkseagreen",
             "darkslategray",
             "rosybrown",
-            "silver"
+            "lightgray"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -11324,9 +11324,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "slategray",
-            "burlywood",
-            "aliceblue"
+            "lightslategray",
+            "antiquewhite",
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -11350,9 +11350,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "palegoldenrod",
-            "sienna",
             "darkgoldenrod",
-            "lightgray"
+            "gray",
+            "black"
         ],
         "Type 1": "Fire",
         "Generation": 4.0,
@@ -11376,9 +11376,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "white",
-            "slateblue",
-            "plum"
+            "mediumpurple",
+            "darkslateblue",
+            "thistle"
         ],
         "Type 1": "Poison",
         "Generation": 7.0,
@@ -11428,9 +11428,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "lightgoldenrodyellow",
-            "darkgray",
-            "black"
+            "lightyellow",
+            "blanchedalmond",
+            "lightslategray"
         ],
         "Type 1": "Fighting",
         "Generation": 6.0,
@@ -11453,9 +11453,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "sandybrown",
             "darkslategray",
+            "peru",
+            "sandybrown",
             "black"
         ],
         "Type 1": "Bug",
@@ -11480,7 +11480,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "dimgray",
+            "gray",
             "black",
             "black"
         ],
@@ -11505,9 +11505,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "dimgray",
             "lightsteelblue",
-            "darkslategray",
+            "burlywood",
             "silver"
         ],
         "Type 1": "Rock",
@@ -11531,9 +11531,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mediumturquoise",
-            "slategray",
-            "lightblue",
+            "skyblue",
+            "steelblue",
+            "dimgray",
             "black"
         ],
         "Type 1": "Water",
@@ -11557,10 +11557,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "dimgray",
             "darkgray",
-            "chocolate",
-            "darkolivegreen"
+            "darkorange",
+            "saddlebrown"
         ],
         "Type 1": "Ground",
         "Generation": 4.0,
@@ -11583,9 +11583,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "coral",
+            "sandybrown",
             "sienna",
-            "khaki",
+            "palegoldenrod",
             "silver"
         ],
         "Type 1": "Fire",
@@ -11609,10 +11609,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "white",
-            "gray",
             "rosybrown",
-            "lightgray"
+            "gray",
+            "lightsteelblue",
+            "burlywood"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -11636,8 +11636,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "rosybrown",
-            "linen",
-            "silver",
+            "mistyrose",
+            "black",
             "black"
         ],
         "Type 1": "Normal",
@@ -11661,9 +11661,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
+            "indianred",
             "gainsboro",
-            "sienna",
+            "black",
             "black"
         ],
         "Type 1": "Normal",
@@ -11687,10 +11687,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "khaki",
-            "darkkhaki",
-            "silver"
+            "gray",
+            "darkslategray",
+            "black"
         ],
         "Type 1": "Electric",
         "Generation": 6.0,
@@ -11768,7 +11768,7 @@
             "dimgray",
             "mistyrose",
             "darkgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 6.0,
@@ -11791,8 +11791,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "darkgray",
             "slategray",
-            "silver",
             "whitesmoke",
             "darkslategray"
         ],
@@ -11817,10 +11817,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "pink",
-            "rosybrown",
-            "black",
-            "black"
+            "lightpink",
+            "mistyrose",
+            "gray",
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -11843,9 +11843,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "cadetblue",
-            "darkslategray",
+            "dimgray",
+            "black",
             "silver"
         ],
         "Type 1": "Flying",
@@ -11869,10 +11869,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darksalmon",
-            "dimgray",
-            "bisque",
-            "darkslategray"
+            "wheat",
+            "darkslategray",
+            "rosybrown",
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -11895,8 +11895,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
-            "black",
+            "lavender",
+            "darkgray",
             "black",
             "black"
         ],
@@ -11922,7 +11922,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "darkkhaki",
+            "rosybrown",
             "skyblue",
             "silver"
         ],
@@ -11947,8 +11947,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "tan",
             "rosybrown",
+            "tan",
             "dimgray",
             "black"
         ],
@@ -11973,10 +11973,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "burlywood",
-            "darkslategray",
             "gray",
-            "indianred"
+            "darkslategray",
+            "burlywood",
+            "silver"
         ],
         "Type 1": "Ground",
         "Generation": 5.0,
@@ -12025,10 +12025,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
-            "slategray",
-            "sienna",
-            "lightgray"
+            "dimgray",
+            "darkgray",
+            "lavender",
+            "gainsboro"
         ],
         "Type 1": "Steel",
         "Generation": 2.0,
@@ -12052,7 +12052,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightgray",
-            "lightslategray",
+            "darkseagreen",
             "black",
             "black"
         ],
@@ -12080,7 +12080,7 @@
             "tan",
             "dimgray",
             "steelblue",
-            "black"
+            "silver"
         ],
         "Type 1": "Fighting",
         "Generation": 2.0,
@@ -12131,7 +12131,7 @@
         "Predominant color": [
             "khaki",
             "beige",
-            "rosybrown",
+            "gray",
             "black"
         ],
         "Type 1": "Fire",
@@ -12158,7 +12158,7 @@
             "lavender",
             "darkslategray",
             "darkgray",
-            "dimgray"
+            "black"
         ],
         "Type 1": "Ice",
         "Generation": 3.0,
@@ -12182,8 +12182,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "lavender",
             "dimgray",
+            "beige",
             "silver"
         ],
         "Type 1": "Water",
@@ -12207,9 +12207,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "cornflowerblue",
+            "indianred",
             "steelblue",
-            "lightcoral",
-            "dimgray",
             "black"
         ],
         "Type 1": "Normal",
@@ -12235,8 +12235,8 @@
         "Predominant color": [
             "powderblue",
             "lightslategray",
-            "lightsteelblue",
-            "slategray"
+            "silver",
+            "dimgray"
         ],
         "Type 1": "Poison",
         "Generation": 7.0,
@@ -12285,10 +12285,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgray",
-            "darkgray",
+            "thistle",
             "dimgray",
-            "silver"
+            "silver",
+            "black"
         ],
         "Type 1": "Fighting",
         "Generation": 1.0,
@@ -12314,7 +12314,7 @@
             "darkkhaki",
             "khaki",
             "darkslategray",
-            "gray"
+            "slategray"
         ],
         "Type 1": "Psychic",
         "Generation": 7.0,
@@ -12364,7 +12364,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkolivegreen",
-            "rosybrown",
+            "gray",
             "wheat",
             "silver"
         ],
@@ -12390,7 +12390,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "whitesmoke",
-            "darkgray",
+            "tan",
             "dimgray",
             "silver"
         ],
@@ -12442,8 +12442,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "ghostwhite",
-            "slategray",
-            "silver",
+            "darkseagreen",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Grass",
@@ -12495,7 +12495,7 @@
         "Predominant color": [
             "gainsboro",
             "lightsteelblue",
-            "ghostwhite",
+            "darkgray",
             "lightslategray"
         ],
         "Type 1": "Rock",
@@ -12520,7 +12520,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslateblue",
-            "tan",
+            "rosybrown",
             "beige",
             "silver"
         ],
@@ -12546,7 +12546,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightpink",
-            "dimgray",
+            "darkolivegreen",
             "black",
             "black"
         ],
@@ -12571,10 +12571,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkkhaki",
-            "tan",
             "khaki",
-            "darkolivegreen"
+            "darkkhaki",
+            "dimgray",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -12597,9 +12597,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "dimgray",
-            "darkslategray",
+            "gray",
+            "darkolivegreen",
+            "sandybrown",
             "silver"
         ],
         "Type 1": "Bug",
@@ -12624,9 +12624,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gainsboro",
-            "darkgray",
-            "gray",
-            "lightgray"
+            "snow",
+            "silver",
+            "gray"
         ],
         "Type 1": "Steel",
         "Generation": 7.0,
@@ -12649,9 +12649,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "slategray",
             "darkgray",
-            "dimgray",
-            "black",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Ghost",
@@ -12675,10 +12675,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
             "lightcyan",
-            "silver",
-            "black"
+            "darkgray",
+            "slategray",
+            "tan"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -12728,7 +12728,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightslategray",
-            "lavender",
+            "gainsboro",
             "darkslategray",
             "black"
         ],
@@ -12754,8 +12754,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "gray",
-            "black",
+            "darkkhaki",
+            "darkolivegreen",
             "black"
         ],
         "Type 1": "Grass",
@@ -12780,9 +12780,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "sandybrown",
-            "khaki",
-            "sienna",
-            "goldenrod"
+            "gray",
+            "black",
+            "black"
         ],
         "Type 1": "Fire",
         "Generation": 3.0,
@@ -12807,8 +12807,8 @@
         "Predominant color": [
             "burlywood",
             "darkolivegreen",
-            "gray",
-            "silver"
+            "silver",
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 1.0,
@@ -12831,10 +12831,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
             "steelblue",
-            "darkkhaki",
-            "black"
+            "khaki",
+            "gainsboro",
+            "darkkhaki"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -12857,7 +12857,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightgreen",
+            "silver",
             "dimgray",
             "indianred",
             "gainsboro"
@@ -12886,7 +12886,7 @@
             "tan",
             "dimgray",
             "darkgray",
-            "silver"
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 1.0,
@@ -12909,10 +12909,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "lightgray",
             "dodgerblue",
-            "darkgray",
-            "darkslateblue",
-            "lavender"
+            "dimgray",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -12935,9 +12935,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "palegoldenrod",
-            "darkslategray",
+            "dimgray",
+            "silver",
+            "black",
             "black"
         ],
         "Type 1": "Grass",
@@ -12961,10 +12961,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "coral",
             "sienna",
-            "darkgray",
-            "black"
+            "sandybrown",
+            "darkgray"
         ],
         "Type 1": "Fire",
         "Generation": 2.0,
@@ -12987,10 +12987,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
             "forestgreen",
-            "limegreen",
-            "darkseagreen"
+            "steelblue",
+            "darkseagreen",
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -13013,10 +13013,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "khaki",
-            "gray",
-            "lavender",
-            "silver"
+            "palegoldenrod",
+            "darkseagreen",
+            "black",
+            "black"
         ],
         "Type 1": "Steel",
         "Generation": 3.0,
@@ -13094,7 +13094,7 @@
             "gainsboro",
             "silver",
             "gray",
-            "darkslategray"
+            "darkolivegreen"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -13117,9 +13117,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
-            "burlywood",
-            "linen",
+            "palegoldenrod",
+            "peru",
+            "saddlebrown",
             "silver"
         ],
         "Type 1": "Ground",
@@ -13143,8 +13143,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "darkslategray",
+            "dimgray",
+            "lightslategray",
             "linen",
             "black"
         ],
@@ -13169,8 +13169,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
             "darkslategray",
+            "gainsboro",
             "darkgray",
             "dimgray"
         ],
@@ -13195,10 +13195,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
+            "darkgray",
+            "skyblue",
             "dimgray",
-            "cornflowerblue",
-            "silver"
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 4.0,
@@ -13222,7 +13222,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
-            "silver",
+            "darkgray",
             "gray",
             "black"
         ],
@@ -13250,7 +13250,7 @@
             "darksalmon",
             "dimgray",
             "gainsboro",
-            "black"
+            "lightgray"
         ],
         "Type 1": "Fire",
         "Generation": 3.0,
@@ -13274,8 +13274,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
+            "darkkhaki",
             "darkslategray",
-            "rosybrown",
             "black"
         ],
         "Type 1": "Electric",
@@ -13299,10 +13299,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "darkgray",
             "darkslategray",
             "linen",
-            "gray",
-            "silver"
+            "black"
         ],
         "Type 1": "Ghost",
         "Generation": 3.0,
@@ -13351,9 +13351,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "yellow",
-            "sienna",
+            "sandybrown",
             "silver",
+            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -13379,8 +13379,8 @@
         "Predominant color": [
             "ghostwhite",
             "darkgray",
-            "lightgray",
-            "slategray"
+            "gainsboro",
+            "gray"
         ],
         "Type 1": "Fire",
         "Generation": 7.0,
@@ -13403,10 +13403,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
             "dimgray",
-            "gray",
-            "thistle"
+            "darkgray",
+            "thistle",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -13429,10 +13429,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkseagreen",
+            "dimgray",
+            "darkgray",
             "darkslategray",
-            "lavender",
-            "gainsboro"
+            "whitesmoke"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -13455,9 +13455,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
             "darkolivegreen",
-            "linen",
+            "darkgray",
+            "whitesmoke",
             "silver"
         ],
         "Type 1": "Rock",
@@ -13507,10 +13507,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "darkslategray",
             "dimgray",
-            "lightgray"
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 5.0,
@@ -13559,9 +13559,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "teal",
-            "lightcyan",
+            "seagreen",
             "mediumaquamarine",
+            "lightcyan",
             "silver"
         ],
         "Type 1": "Ice",
@@ -13612,7 +13612,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "beige",
-            "tan",
+            "rosybrown",
             "dimgray",
             "silver"
         ],
@@ -13663,9 +13663,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "ghostwhite",
-            "darkgray",
-            "dimgray",
+            "snow",
+            "slategray",
+            "silver",
             "silver"
         ],
         "Type 1": "Dark",
@@ -13715,9 +13715,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "darkgray",
+            "gainsboro",
             "darkslategray",
+            "black",
             "black"
         ],
         "Type 1": "Steel",
@@ -13768,9 +13768,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "snow",
-            "silver",
-            "indianred"
+            "palegoldenrod",
+            "salmon",
+            "darkgray"
         ],
         "Type 1": "Normal",
         "Generation": 7.0,
@@ -13796,7 +13796,7 @@
             "darkgray",
             "whitesmoke",
             "darkslategray",
-            "black"
+            "gainsboro"
         ],
         "Type 1": "Steel",
         "Generation": 5.0,
@@ -13820,9 +13820,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "darkkhaki",
-            "silver",
-            "darkslategray"
+            "gray",
+            "lightgray",
+            "black"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -13845,10 +13845,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "paleturquoise",
-            "dimgray",
-            "cadetblue",
-            "silver"
+            "lightskyblue",
+            "gray",
+            "silver",
+            "darkslategray"
         ],
         "Type 1": "Water",
         "Generation": 6.0,
@@ -13871,7 +13871,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
+            "dimgray",
             "lightsteelblue",
             "darkslategray",
             "black"
@@ -13897,10 +13897,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "khaki",
             "darkolivegreen",
-            "palegoldenrod",
-            "silver"
+            "darkkhaki",
+            "lightgray"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -13924,7 +13924,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightgray",
-            "gray",
+            "rosybrown",
             "darkolivegreen",
             "silver"
         ],
@@ -13949,9 +13949,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
-            "darkgray",
-            "dimgray",
+            "lightgray",
+            "gray",
+            "antiquewhite",
             "black"
         ],
         "Type 1": "Normal",
@@ -13978,7 +13978,7 @@
             "palegoldenrod",
             "darkorange",
             "dimgray",
-            "black"
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 1.0,
@@ -14001,7 +14001,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "beige",
+            "antiquewhite",
             "darkgray",
             "dimgray",
             "black"
@@ -14055,7 +14055,7 @@
         "Predominant color": [
             "palegoldenrod",
             "silver",
-            "darkseagreen",
+            "darkgray",
             "black"
         ],
         "Type 1": "Psychic",
@@ -14081,8 +14081,8 @@
         "Predominant color": [
             "gray",
             "darkslategray",
-            "lightgray",
-            "black"
+            "silver",
+            "whitesmoke"
         ],
         "Type 1": "Dragon",
         "Generation": 5.0,
@@ -14106,8 +14106,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
+            "darkseagreen",
             "darkolivegreen",
-            "khaki",
             "black"
         ],
         "Type 1": "Bug",
@@ -14132,8 +14132,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "linen",
-            "gray",
+            "darkkhaki",
+            "antiquewhite",
             "black"
         ],
         "Type 1": "Water",
@@ -14184,9 +14184,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "steelblue",
-            "darkseagreen",
-            "ghostwhite",
-            "gainsboro"
+            "darkgray",
+            "aliceblue",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -14236,9 +14236,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "crimson",
-            "dimgray",
+            "darkslateblue",
             "silver",
-            "gainsboro"
+            "beige"
         ],
         "Type 1": "Dark",
         "Generation": 4.0,
@@ -14261,8 +14261,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
             "darkslategray",
+            "dimgray",
             "palegoldenrod",
             "silver"
         ],
@@ -14289,7 +14289,7 @@
         "Predominant color": [
             "olivedrab",
             "khaki",
-            "gainsboro",
+            "darkgoldenrod",
             "black"
         ],
         "Type 1": "Bug",
@@ -14313,9 +14313,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "dimgray",
             "darkslategray",
+            "darkgray",
+            "gray",
             "silver"
         ],
         "Type 1": "Normal",
@@ -14340,9 +14340,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "silver",
-            "rosybrown",
-            "dimgray",
-            "gainsboro"
+            "snow",
+            "darkgray",
+            "dimgray"
         ],
         "Type 1": "Rock",
         "Generation": 7.0,
@@ -14367,7 +14367,7 @@
         "Predominant color": [
             "skyblue",
             "paleturquoise",
-            "slategray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Water",
@@ -14417,10 +14417,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
             "sienna",
-            "peru",
-            "silver"
+            "saddlebrown",
+            "darksalmon",
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -14471,7 +14471,7 @@
         "Predominant color": [
             "mediumturquoise",
             "khaki",
-            "gray",
+            "slategray",
             "silver"
         ],
         "Type 1": "Water",
@@ -14497,7 +14497,7 @@
         "Predominant color": [
             "ghostwhite",
             "lightsteelblue",
-            "lightslategray",
+            "cadetblue",
             "silver"
         ],
         "Type 1": "Ice",
@@ -14523,7 +14523,7 @@
         "Predominant color": [
             "lavender",
             "lightsteelblue",
-            "dimgray",
+            "slategray",
             "black"
         ],
         "Type 1": "Ice",
@@ -14574,9 +14574,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "thistle",
-            "rosybrown",
-            "dimgray",
-            "silver"
+            "gray",
+            "darkgray",
+            "darkolivegreen"
         ],
         "Type 1": "Poison",
         "Generation": 1.0,
@@ -14602,7 +14602,7 @@
             "darkcyan",
             "sienna",
             "darkslategray",
-            "tan"
+            "darkkhaki"
         ],
         "Type 1": "Ghost",
         "Generation": 7.0,
@@ -14626,9 +14626,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightpink",
-            "gray",
+            "indianred",
             "darkgray",
-            "lightpink"
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -14654,7 +14654,7 @@
             "darkgray",
             "dimgray",
             "whitesmoke",
-            "black"
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 4.0,
@@ -14679,7 +14679,7 @@
         "Predominant color": [
             "dimgray",
             "darkgray",
-            "lavender",
+            "aliceblue",
             "black"
         ],
         "Type 1": "Rock",
@@ -14729,9 +14729,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "bisque",
-            "gray",
-            "skyblue",
+            "lightgoldenrodyellow",
+            "rosybrown",
+            "cadetblue",
             "black"
         ],
         "Type 1": "Rock",
@@ -14758,7 +14758,7 @@
             "oldlace",
             "darkgray",
             "dimgray",
-            "black"
+            "darkgray"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -14833,10 +14833,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavender",
+            "gainsboro",
+            "lightslategray",
             "silver",
-            "gray",
-            "silver"
+            "lavenderblush"
         ],
         "Type 1": "Dragon",
         "Generation": 6.0,
@@ -14861,7 +14861,7 @@
         "Predominant color": [
             "wheat",
             "sandybrown",
-            "dimgray",
+            "gray",
             "black"
         ],
         "Type 1": "Normal",
@@ -14886,9 +14886,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gainsboro",
-            "rosybrown",
-            "dimgray",
-            "silver"
+            "darkgray",
+            "gray",
+            "darkolivegreen"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -14911,10 +14911,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "darkseagreen",
             "darkslategray",
             "silver",
-            "palegoldenrod"
+            "black"
         ],
         "Type 1": "Ground",
         "Generation": 3.0,
@@ -14991,7 +14991,7 @@
         "Predominant color": [
             "dimgray",
             "darkslategray",
-            "lightgray",
+            "silver",
             "silver"
         ],
         "Type 1": "Ground",
@@ -15015,8 +15015,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "wheat",
+            "gray",
+            "black",
             "black",
             "black"
         ],
@@ -15041,9 +15041,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavenderblush",
-            "silver",
-            "dimgray",
+            "mistyrose",
+            "gray",
+            "black",
             "black"
         ],
         "Type 1": "Normal",
@@ -15067,10 +15067,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "thistle",
             "lightslategray",
-            "lightsteelblue",
-            "wheat",
-            "darkslategray"
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -15094,8 +15094,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gainsboro",
+            "darkgray",
             "firebrick",
-            "rosybrown",
             "black"
         ],
         "Type 1": "Bug",
@@ -15119,9 +15119,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "darkgray",
-            "black",
+            "snow",
+            "silver",
+            "gray",
             "black"
         ],
         "Type 1": "Fairy",
@@ -15171,9 +15171,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
-            "darkolivegreen",
-            "gainsboro",
+            "rosybrown",
+            "saddlebrown",
+            "whitesmoke",
             "silver"
         ],
         "Type 1": "Dark",
@@ -15199,7 +15199,7 @@
         "Predominant color": [
             "white",
             "gainsboro",
-            "darkgray",
+            "silver",
             "gray"
         ],
         "Type 1": "Grass",
@@ -15223,10 +15223,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "white",
             "darkgray",
             "gray",
-            "gainsboro",
-            "silver"
+            "whitesmoke"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -15249,10 +15249,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkseagreen",
             "khaki",
             "silver",
-            "black"
+            "darkolivegreen",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 1.0,
@@ -15275,8 +15275,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkkhaki",
-            "black",
+            "tan",
+            "dimgray",
             "black",
             "black"
         ],
@@ -15302,9 +15302,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "seagreen",
-            "lightgray",
             "dimgray",
-            "darkgray"
+            "darkgray",
+            "antiquewhite"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -15329,8 +15329,8 @@
         "Predominant color": [
             "burlywood",
             "rosybrown",
-            "whitesmoke",
-            "mediumseagreen"
+            "mediumseagreen",
+            "seagreen"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -15405,10 +15405,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
-            "dimgray",
-            "black",
-            "black"
+            "mediumpurple",
+            "darkslateblue",
+            "pink",
+            "rosybrown"
         ],
         "Type 1": "Bug",
         "Generation": 1.0,
@@ -15431,10 +15431,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "powderblue",
+            "gainsboro",
             "darkgray",
-            "lavender",
-            "darkslateblue"
+            "dimgray",
+            "black"
         ],
         "Type 1": "Poison",
         "Generation": 1.0,
@@ -15459,7 +15459,7 @@
         "Predominant color": [
             "darkslategray",
             "whitesmoke",
-            "darkgray",
+            "rosybrown",
             "silver"
         ],
         "Type 1": "Normal",
@@ -15484,8 +15484,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "lightgray",
-            "whitesmoke",
+            "silver",
+            "gainsboro",
             "darkgray"
         ],
         "Type 1": "Electric",
@@ -15511,8 +15511,8 @@
         "Predominant color": [
             "coral",
             "sienna",
-            "palegoldenrod",
-            "silver"
+            "lightgray",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 4.0,
@@ -15561,9 +15561,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "darksalmon",
             "sienna",
-            "silver",
+            "black",
             "black"
         ],
         "Type 1": "Fire",
@@ -15587,9 +15587,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "steelblue",
+            "cornflowerblue",
             "dimgray",
-            "silver",
+            "burlywood",
             "silver"
         ],
         "Type 1": "Water",
@@ -15614,7 +15614,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
-            "palegoldenrod",
+            "khaki",
             "darkolivegreen",
             "silver"
         ],
@@ -15640,8 +15640,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "linen",
-            "darkgray",
-            "dimgray",
+            "silver",
+            "gray",
             "silver"
         ],
         "Type 1": "Normal",
@@ -15668,7 +15668,7 @@
             "burlywood",
             "dimgray",
             "silver",
-            "lightsalmon"
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 1.0,
@@ -15718,9 +15718,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "cadetblue",
-            "darkslategray",
-            "lightcoral",
-            "silver"
+            "cadetblue",
+            "tan",
+            "darkslategray"
         ],
         "Type 1": "Ghost",
         "Generation": 2.0,
@@ -15744,9 +15744,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "gray",
-            "black",
-            "black"
+            "steelblue",
+            "silver",
+            "goldenrod"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -15770,7 +15770,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "dimgray",
-            "gray",
+            "darkslategray",
             "darkgray",
             "lightgray"
         ],
@@ -15795,7 +15795,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sandybrown",
+            "gold",
             "sienna",
             "lightgray",
             "black"
@@ -15824,7 +15824,7 @@
             "darkseagreen",
             "darkslategray",
             "rosybrown",
-            "gainsboro"
+            "lightgray"
         ],
         "Type 1": "Dragon",
         "Generation": 3.0,
@@ -15847,8 +15847,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "gray",
             "dimgray",
-            "rosybrown",
             "gainsboro",
             "darkgray"
         ],
@@ -15899,10 +15899,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkolivegreen",
-            "peru",
-            "silver",
-            "black"
+            "sienna",
+            "coral",
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 4.0,
@@ -15925,8 +15925,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "darkolivegreen",
+            "dimgray",
+            "rosybrown",
             "lightgray",
             "black"
         ],
@@ -15952,7 +15952,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "skyblue",
+            "cadetblue",
             "silver",
             "goldenrod"
         ],
@@ -15980,7 +15980,7 @@
             "sandybrown",
             "wheat",
             "darkslategray",
-            "silver"
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 2.0,
@@ -16004,7 +16004,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "wheat",
-            "rosybrown",
+            "gray",
             "dimgray",
             "black"
         ],
@@ -16031,8 +16031,8 @@
         "Predominant color": [
             "darkolivegreen",
             "gray",
-            "dimgray",
-            "darkgray"
+            "white",
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 7.0,
@@ -16055,8 +16055,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "linen",
             "darkgray",
+            "linen",
             "saddlebrown",
             "yellowgreen"
         ],
@@ -16108,9 +16108,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gainsboro",
-            "darkgray",
-            "gray",
-            "darkslategray"
+            "silver",
+            "rosybrown",
+            "dimgray"
         ],
         "Type 1": "Psychic",
         "Generation": 7.0,
@@ -16133,10 +16133,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mediumaquamarine",
-            "indianred",
-            "gainsboro",
-            "darkslategray"
+            "cadetblue",
+            "sienna",
+            "tan",
+            "whitesmoke"
         ],
         "Type 1": "Fighting",
         "Generation": 6.0,
@@ -16159,10 +16159,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkolivegreen",
             "yellowgreen",
+            "darkolivegreen",
             "silver",
-            "black"
+            "khaki"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -16185,10 +16185,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "goldenrod",
             "darkolivegreen",
-            "lavender",
-            "darkgray"
+            "gold",
+            "goldenrod",
+            "lightgray"
         ],
         "Type 1": "Bug",
         "Generation": 4.0,
@@ -16211,9 +16211,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
-            "silver",
-            "dimgray",
+            "lightblue",
+            "gray",
+            "black",
             "black"
         ],
         "Type 1": "Water",
@@ -16237,10 +16237,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightpink",
+            "pink",
             "whitesmoke",
-            "gray",
-            "silver"
+            "tan",
+            "gray"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -16263,7 +16263,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mistyrose",
+            "lavenderblush",
             "silver",
             "gray",
             "black"
@@ -16289,10 +16289,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "white",
-            "lightslategray",
+            "snow",
+            "dimgray",
             "silver",
-            "darkolivegreen"
+            "cadetblue"
         ],
         "Type 1": "Water",
         "Generation": 7.0,
@@ -16315,7 +16315,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gainsboro",
+            "lightgray",
             "gray",
             "darkgray",
             "dimgray"
@@ -16342,8 +16342,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "indianred",
-            "sienna",
-            "darkgray",
+            "darkolivegreen",
+            "silver",
             "sandybrown"
         ],
         "Type 1": "Fire",
@@ -16393,9 +16393,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "sienna",
             "tan",
-            "dimgray",
-            "black",
+            "steelblue",
             "black"
         ],
         "Type 1": "Water",
@@ -16420,7 +16420,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
-            "thistle",
+            "silver",
             "dimgray",
             "black"
         ],
@@ -16445,10 +16445,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkkhaki",
             "palegoldenrod",
-            "olivedrab",
-            "tan"
+            "darkkhaki",
+            "burlywood",
+            "darkolivegreen"
         ],
         "Type 1": "Grass",
         "Generation": 2.0,
@@ -16471,8 +16471,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "silver",
-            "dimgray",
+            "gray",
+            "lightgray",
             "black",
             "black"
         ],
@@ -16497,10 +16497,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
-            "wheat",
             "dimgray",
-            "darkgray"
+            "darkgray",
+            "lightgray",
+            "khaki"
         ],
         "Type 1": "Dragon",
         "Generation": 7.0,
@@ -16523,9 +16523,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkolivegreen",
+            "gray",
             "palegreen",
-            "darkseagreen",
+            "darkolivegreen",
             "silver"
         ],
         "Type 1": "Grass",
@@ -16575,9 +16575,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "darkkhaki",
             "darkolivegreen",
-            "burlywood",
-            "yellowgreen",
+            "wheat",
             "silver"
         ],
         "Type 1": "Grass",
@@ -16602,8 +16602,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mediumturquoise",
-            "khaki",
             "slategray",
+            "khaki",
             "silver"
         ],
         "Type 1": "Water",
@@ -16628,9 +16628,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "gray",
-            "lightgray",
-            "black"
+            "dimgray",
+            "silver",
+            "lightgray"
         ],
         "Type 1": "Normal",
         "Generation": 4.0,
@@ -16681,8 +16681,8 @@
         "Predominant color": [
             "dimgray",
             "pink",
-            "silver",
-            "rosybrown"
+            "rosybrown",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 7.0,
@@ -16707,8 +16707,8 @@
         "Predominant color": [
             "palevioletred",
             "olivedrab",
-            "plum",
-            "black"
+            "silver",
+            "khaki"
         ],
         "Type 1": "Ghost",
         "Generation": 4.0,
@@ -16733,7 +16733,7 @@
         "Predominant color": [
             "darkslategray",
             "dimgray",
-            "firebrick",
+            "brown",
             "silver"
         ],
         "Type 1": "Dark",
@@ -16759,7 +16759,7 @@
         "Predominant color": [
             "palegoldenrod",
             "gray",
-            "black",
+            "silver",
             "black"
         ],
         "Type 1": "Grass",
@@ -16783,9 +16783,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "lightslategray",
+            "ghostwhite",
             "silver",
+            "slategray",
             "black"
         ],
         "Type 1": "Ice",
@@ -16809,9 +16809,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "silver",
-            "black",
+            "gray",
+            "darkslategray",
+            "lightgray",
             "black"
         ],
         "Type 1": "Bug",
@@ -16836,9 +16836,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "linen",
-            "rosybrown",
-            "saddlebrown",
-            "black"
+            "indianred",
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 3.0,
@@ -16861,10 +16861,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
+            "rosybrown",
             "lightpink",
-            "darkslategray",
-            "silver"
+            "darkolivegreen",
+            "tan"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -16888,8 +16888,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "silver",
-            "dimgray",
-            "black",
+            "gray",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Poison",
@@ -16913,10 +16913,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "palegoldenrod",
             "darkseagreen",
-            "blanchedalmond",
-            "dimgray",
-            "palegoldenrod"
+            "darkolivegreen",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 4.0,
@@ -16939,10 +16939,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkkhaki",
-            "pink",
-            "darkolivegreen",
-            "papayawhip"
+            "lightpink",
+            "dimgray",
+            "silver",
+            "goldenrod"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -16967,7 +16967,7 @@
         "Predominant color": [
             "beige",
             "gray",
-            "silver",
+            "black",
             "black"
         ],
         "Type 1": "Psychic",
@@ -16991,9 +16991,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "rosybrown",
             "dimgray",
-            "papayawhip",
+            "blanchedalmond",
             "silver"
         ],
         "Type 1": "Grass",
@@ -17017,10 +17017,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
-            "gray",
             "darkkhaki",
-            "darkolivegreen"
+            "palegoldenrod",
+            "darkolivegreen",
+            "black"
         ],
         "Type 1": "Grass",
         "Generation": 4.0,
@@ -17095,9 +17095,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
-            "black",
-            "black",
+            "rosybrown",
+            "sienna",
+            "maroon",
             "black"
         ],
         "Type 1": "Ice",
@@ -17121,10 +17121,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "dimgray",
             "darkseagreen",
             "darkolivegreen",
-            "black",
-            "black"
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 5.0,
@@ -17148,8 +17148,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "wheat",
             "darkslategray",
+            "wheat",
             "silver"
         ],
         "Type 1": "Fighting",
@@ -17174,9 +17174,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "rosybrown",
             "whitesmoke",
-            "gainsboro"
+            "silver",
+            "indianred"
         ],
         "Type 1": "Dark",
         "Generation": 4.0,
@@ -17225,10 +17225,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "ghostwhite",
-            "lightgray",
-            "gray",
-            "silver"
+            "whitesmoke",
+            "darkgray",
+            "black",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -17251,7 +17251,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "salmon",
+            "darksalmon",
             "darkolivegreen",
             "whitesmoke",
             "silver"
@@ -17304,9 +17304,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "khaki",
-            "darkkhaki",
-            "dimgray",
-            "silver"
+            "khaki",
+            "tan",
+            "olivedrab"
         ],
         "Type 1": "Fire",
         "Generation": 1.0,
@@ -17332,7 +17332,7 @@
             "gray",
             "darkslategray",
             "gainsboro",
-            "black"
+            "darkslategray"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -17355,9 +17355,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "dimgray",
+            "lightgray",
             "darkslategray",
-            "gainsboro",
-            "black",
             "black"
         ],
         "Type 1": "Electric",
@@ -17407,10 +17407,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "cornflowerblue",
+            "dimgray",
             "darkslategray",
-            "black",
-            "black"
+            "silver"
         ],
         "Type 1": "Poison",
         "Generation": 4.0,
@@ -17434,9 +17434,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "yellowgreen",
+            "saddlebrown",
             "lavender",
-            "sienna",
-            "darkslategray"
+            "black"
         ],
         "Type 1": "Psychic",
         "Generation": 2.0,
@@ -17459,8 +17459,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "whitesmoke",
             "dimgray",
-            "snow",
             "darkslategray",
             "silver"
         ],
@@ -17487,7 +17487,7 @@
         "Predominant color": [
             "rosybrown",
             "lightblue",
-            "darkslategray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Water",
@@ -17511,9 +17511,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
-            "silver",
+            "rosybrown",
             "darkslategray",
+            "lightgray",
             "silver"
         ],
         "Type 1": "Ground",
@@ -17538,9 +17538,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "whitesmoke",
-            "darkgray",
-            "silver"
+            "linen",
+            "gray",
+            "gainsboro"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -17563,9 +17563,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightskyblue",
-            "steelblue",
             "paleturquoise",
+            "skyblue",
+            "steelblue",
             "silver"
         ],
         "Type 1": "Ice",
@@ -17592,7 +17592,7 @@
             "lavender",
             "lightsteelblue",
             "lightslategray",
-            "black"
+            "silver"
         ],
         "Type 1": "Dragon",
         "Generation": 6.0,
@@ -17618,7 +17618,7 @@
             "beige",
             "rosybrown",
             "darkslategray",
-            "silver"
+            "black"
         ],
         "Type 1": "Normal",
         "Generation": 1.0,
@@ -17643,7 +17643,7 @@
         "Predominant color": [
             "dimgray",
             "lightgreen",
-            "rosybrown",
+            "lightcoral",
             "silver"
         ],
         "Type 1": "Grass",
@@ -17667,10 +17667,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
-            "silver",
-            "darkolivegreen",
-            "lightgray"
+            "dimgray",
+            "salmon",
+            "lightsteelblue",
+            "gainsboro"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -17693,9 +17693,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "whitesmoke",
             "black",
+            "whitesmoke",
+            "dimgray",
             "black"
         ],
         "Type 1": "Psychic",
@@ -17720,9 +17720,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
-            "darkolivegreen",
             "khaki",
-            "darkgray"
+            "darkolivegreen",
+            "tan"
         ],
         "Type 1": "Electric",
         "Generation": 7.0,
@@ -17771,10 +17771,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "aliceblue",
-            "darkgray",
-            "black",
-            "black"
+            "azure",
+            "silver",
+            "dimgray",
+            "silver"
         ],
         "Type 1": "Fairy",
         "Generation": 4.0,
@@ -17797,9 +17797,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkolivegreen",
-            "rosybrown",
-            "bisque",
+            "darkslategray",
+            "palegoldenrod",
+            "sienna",
             "black"
         ],
         "Type 1": "Bug",
@@ -17824,8 +17824,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkseagreen",
-            "black",
-            "black",
+            "khaki",
+            "khaki",
             "black"
         ],
         "Type 1": "Grass",
@@ -17849,9 +17849,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mistyrose",
-            "lightpink",
+            "pink",
             "rosybrown",
+            "black",
             "black"
         ],
         "Type 1": "Water",
@@ -17877,7 +17877,7 @@
         "Predominant color": [
             "gray",
             "tan",
-            "darkslategray",
+            "darkolivegreen",
             "silver"
         ],
         "Type 1": "Poison",
@@ -17901,8 +17901,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightblue",
-            "slategray",
+            "powderblue",
+            "lightslategray",
             "black",
             "black"
         ],
@@ -17928,9 +17928,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkgray",
-            "dimgray",
-            "lightgray",
-            "whitesmoke"
+            "black",
+            "black",
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -17980,9 +17980,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "aliceblue",
-            "aliceblue",
             "rosybrown",
-            "dimgray"
+            "dimgray",
+            "black"
         ],
         "Type 1": "Electric",
         "Generation": 1.0,
@@ -18005,10 +18005,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "palegoldenrod",
-            "darkkhaki",
+            "khaki",
+            "peru",
             "tomato",
-            "sienna"
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 6.0,
@@ -18034,7 +18034,7 @@
             "cadetblue",
             "darkslategray",
             "silver",
-            "linen"
+            "black"
         ],
         "Type 1": "Steel",
         "Generation": 3.0,
@@ -18059,8 +18059,8 @@
         "Predominant color": [
             "lightslategray",
             "gainsboro",
-            "dimgray",
-            "black"
+            "darkslategray",
+            "silver"
         ],
         "Type 1": "Ground",
         "Generation": 2.0,
@@ -18084,9 +18084,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "salmon",
-            "darkgray",
-            "dimgray",
-            "beige"
+            "gray",
+            "antiquewhite",
+            "silver"
         ],
         "Type 1": "Ice",
         "Generation": 1.0,
@@ -18109,9 +18109,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "sienna",
-            "tan",
+            "dimgray",
+            "black",
+            "black",
             "black"
         ],
         "Type 1": "Ghost",
@@ -18136,9 +18136,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "teal",
-            "sienna",
-            "wheat",
-            "silver"
+            "indianred",
+            "lightgray",
+            "black"
         ],
         "Type 1": "Dragon",
         "Generation": 5.0,
@@ -18189,7 +18189,7 @@
         "Predominant color": [
             "chocolate",
             "khaki",
-            "sienna",
+            "saddlebrown",
             "silver"
         ],
         "Type 1": "Fire",
@@ -18213,10 +18213,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
             "darkslategray",
             "lightsteelblue",
-            "darkslategray"
+            "slategray",
+            "lightgray"
         ],
         "Type 1": "Psychic",
         "Generation": 5.0,
@@ -18240,9 +18240,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "gray",
+            "rosybrown",
             "antiquewhite",
-            "silver"
+            "lightgray"
         ],
         "Type 1": "Normal",
         "Generation": 5.0,
@@ -18291,8 +18291,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "navajowhite",
-            "darkkhaki",
+            "burlywood",
+            "wheat",
             "dimgray",
             "black"
         ],
@@ -18319,8 +18319,8 @@
         "Predominant color": [
             "darkseagreen",
             "darkolivegreen",
-            "powderblue",
-            "silver"
+            "silver",
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -18344,9 +18344,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
-            "darkslategray",
             "gainsboro",
-            "silver"
+            "darkslategray",
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -18369,9 +18369,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "gray",
             "darkgray",
-            "darkslategray",
+            "gray",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Rock",
@@ -18397,7 +18397,7 @@
         "Predominant color": [
             "darkolivegreen",
             "khaki",
-            "burlywood",
+            "darkseagreen",
             "black"
         ],
         "Type 1": "Grass",
@@ -18422,9 +18422,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
-            "tan",
+            "silver",
             "gray",
-            "snow"
+            "slategray"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -18447,10 +18447,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslateblue",
-            "paleturquoise",
+            "powderblue",
+            "steelblue",
             "darkseagreen",
-            "silver"
+            "darkslategray"
         ],
         "Type 1": "Water",
         "Generation": 5.0,
@@ -18473,10 +18473,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "burlywood",
             "skyblue",
+            "darkkhaki",
             "slategray",
-            "silver"
+            "khaki"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -18526,9 +18526,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mediumseagreen",
-            "darkseagreen",
-            "palegoldenrod",
-            "black"
+            "khaki",
+            "seagreen",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -18553,7 +18553,7 @@
         "Predominant color": [
             "dimgray",
             "darkgray",
-            "black",
+            "darkslategray",
             "black"
         ],
         "Type 1": "Dark",
@@ -18578,9 +18578,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "floralwhite",
-            "gray",
-            "silver",
-            "darkslategray"
+            "dimgray",
+            "lightgray",
+            "black"
         ],
         "Type 1": "Bug",
         "Generation": 6.0,
@@ -18603,9 +18603,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
-            "darkseagreen",
-            "beige",
+            "gray",
+            "antiquewhite",
+            "brown",
             "silver"
         ],
         "Type 1": "Fairy",
@@ -18631,7 +18631,7 @@
         "Predominant color": [
             "gold",
             "sienna",
-            "whitesmoke",
+            "lavender",
             "darkgray"
         ],
         "Type 1": "Bug",
@@ -18657,8 +18657,8 @@
         "Predominant color": [
             "darkslategray",
             "peru",
-            "slategray",
-            "lightgray"
+            "lightslategray",
+            "gainsboro"
         ],
         "Type 1": "Ghost",
         "Generation": 5.0,
@@ -18709,8 +18709,8 @@
         "Predominant color": [
             "bisque",
             "rosybrown",
-            "saddlebrown",
-            "black"
+            "sienna",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -18734,7 +18734,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
-            "silver",
+            "thistle",
             "gray",
             "silver"
         ],
@@ -18760,9 +18760,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "cornsilk",
+            "steelblue",
             "silver",
-            "cornflowerblue",
-            "darkslateblue"
+            "black"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -18811,9 +18811,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "burlywood",
-            "peru",
+            "lightsalmon",
             "sienna",
+            "bisque",
             "silver"
         ],
         "Type 1": "Fire",
@@ -18863,9 +18863,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lavender",
-            "darkgray",
-            "dimgray",
+            "silver",
+            "whitesmoke",
+            "gray",
             "silver"
         ],
         "Type 1": "Bug",
@@ -18890,7 +18890,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkkhaki",
-            "black",
+            "olivedrab",
             "black",
             "black"
         ],
@@ -18917,7 +18917,7 @@
         "Predominant color": [
             "salmon",
             "sienna",
-            "palegoldenrod",
+            "moccasin",
             "silver"
         ],
         "Type 1": "Fire",
@@ -18941,10 +18941,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "mistyrose",
-            "darkgray",
-            "white",
-            "black"
+            "lavenderblush",
+            "silver",
+            "gray",
+            "silver"
         ],
         "Type 1": "Normal",
         "Generation": 2.0,
@@ -18995,8 +18995,8 @@
         "Predominant color": [
             "darkkhaki",
             "olivedrab",
-            "wheat",
-            "silver"
+            "silver",
+            "bisque"
         ],
         "Type 1": "Grass",
         "Generation": 5.0,
@@ -19045,10 +19045,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "antiquewhite",
+            "silver",
             "sienna",
-            "lightslategray",
-            "silver"
+            "linen",
+            "peru"
         ],
         "Type 1": "Ice",
         "Generation": 4.0,
@@ -19072,9 +19072,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
+            "lightgray",
             "silver",
-            "whitesmoke",
-            "silver"
+            "black"
         ],
         "Type 1": "Psychic",
         "Generation": 3.0,
@@ -19098,8 +19098,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "bisque",
-            "slategray",
             "skyblue",
+            "gray",
             "silver"
         ],
         "Type 1": "Rock",
@@ -19123,9 +19123,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "slategray",
-            "lightsteelblue",
             "lavender",
+            "slategray",
+            "silver",
             "silver"
         ],
         "Type 1": "Steel",
@@ -19149,10 +19149,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "skyblue",
+            "lightblue",
             "peru",
             "lightcyan",
-            "mintcream"
+            "azure"
         ],
         "Type 1": "Electric",
         "Generation": 4.0,
@@ -19175,8 +19175,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
-            "wheat",
+            "darksalmon",
+            "bisque",
             "darkslategray",
             "black"
         ],
@@ -19201,10 +19201,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
-            "royalblue",
-            "goldenrod",
-            "lightsteelblue"
+            "darkolivegreen",
+            "darkkhaki",
+            "dodgerblue",
+            "teal"
         ],
         "Type 1": "Bug",
         "Generation": 5.0,
@@ -19227,9 +19227,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darksalmon",
-            "gainsboro",
+            "tan",
             "dimgray",
+            "gainsboro",
             "silver"
         ],
         "Type 1": "Fire",
@@ -19280,7 +19280,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "lightsteelblue",
-            "slategray",
+            "lightslategray",
             "darkslategray",
             "silver"
         ],
@@ -19308,7 +19308,7 @@
             "dimgray",
             "tan",
             "darkslategray",
-            "black"
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -19332,9 +19332,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "dimgray",
-            "black",
-            "black"
+            "cadetblue",
+            "paleturquoise",
+            "darkslategray"
         ],
         "Type 1": "Psychic",
         "Generation": 3.0,
@@ -19357,10 +19357,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "dimgray",
+            "slategray",
             "darkslategray",
-            "lightslategray",
-            "firebrick"
+            "firebrick",
+            "black"
         ],
         "Type 1": "Dark",
         "Generation": 5.0,
@@ -19383,9 +19383,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "rosybrown",
             "wheat",
-            "sienna",
+            "dimgray",
+            "darksalmon",
             "silver"
         ],
         "Type 1": "Fighting",
@@ -19410,8 +19410,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "gray",
+            "thistle",
             "goldenrod",
-            "gainsboro",
             "silver"
         ],
         "Type 1": "Ghost",
@@ -19435,9 +19435,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "whitesmoke",
-            "skyblue",
-            "slategray",
+            "white",
+            "gainsboro",
+            "cadetblue",
             "silver"
         ],
         "Type 1": "Dragon",
@@ -19462,8 +19462,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkseagreen",
-            "pink",
-            "darkslategray",
+            "lightpink",
+            "dimgray",
             "silver"
         ],
         "Type 1": "Rock",
@@ -19488,9 +19488,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "skyblue",
-            "paleturquoise",
-            "peru",
-            "black"
+            "lavender",
+            "slategray",
+            "sandybrown"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -19513,10 +19513,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkseagreen",
-            "slategray",
-            "darkslategray",
-            "silver"
+            "lightslategray",
+            "silver",
+            "dimgray",
+            "darkslategray"
         ],
         "Type 1": "Steel",
         "Generation": 7.0,
@@ -19540,9 +19540,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "white",
+            "rosybrown",
             "palegoldenrod",
-            "gray",
-            "palevioletred"
+            "whitesmoke"
         ],
         "Type 1": "Grass",
         "Generation": 7.0,
@@ -19592,9 +19592,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "moccasin",
-            "slategray",
-            "mediumpurple",
-            "lightgray"
+            "lightslategray",
+            "dimgray",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 2.0,
@@ -19643,10 +19643,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkslategray",
+            "dimgray",
+            "sandybrown",
             "gainsboro",
-            "gray",
-            "sandybrown"
+            "silver"
         ],
         "Type 1": "Bug",
         "Generation": 3.0,
@@ -19669,10 +19669,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightsteelblue",
-            "slategray",
+            "skyblue",
+            "dimgray",
             "gainsboro",
-            "black"
+            "darkgray"
         ],
         "Type 1": "Dragon",
         "Generation": 3.0,
@@ -19696,8 +19696,8 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslateblue",
-            "darkslateblue",
-            "darkgray",
+            "gray",
+            "silver",
             "khaki"
         ],
         "Type 1": "Psychic",
@@ -19722,9 +19722,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "darkslategray",
-            "sienna",
             "rosybrown",
-            "salmon"
+            "sienna",
+            "darksalmon"
         ],
         "Type 1": "Ground",
         "Generation": 7.0,
@@ -19748,9 +19748,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "paleturquoise",
-            "slategray",
+            "lightslategray",
             "burlywood",
-            "silver"
+            "dimgray"
         ],
         "Type 1": "Water",
         "Generation": 3.0,
@@ -19773,7 +19773,7 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightsteelblue",
+            "lightgray",
             "gray",
             "khaki",
             "black"
@@ -19799,9 +19799,9 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "darkgray",
+            "lightslategray",
+            "lightgray",
             "dimgray",
-            "gainsboro",
             "silver"
         ],
         "Type 1": "Water",
@@ -19825,10 +19825,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "indianred",
+            "rosybrown",
             "darkolivegreen",
             "mediumseagreen",
-            "silver"
+            "black"
         ],
         "Type 1": "Rock",
         "Generation": 2.0,
@@ -19852,7 +19852,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "paleturquoise",
-            "lightslategray",
+            "darkgray",
             "aliceblue",
             "black"
         ],
@@ -19877,10 +19877,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "lightslategray",
+            "slategray",
             "khaki",
             "lightblue",
-            "darkgray"
+            "silver"
         ],
         "Type 1": "Water",
         "Generation": 2.0,
@@ -19904,7 +19904,7 @@
         "Frames in Image": 1,
         "Predominant color": [
             "sandybrown",
-            "dimgray",
+            "darkolivegreen",
             "linen",
             "silver"
         ],
@@ -19958,7 +19958,7 @@
             "plum",
             "rosybrown",
             "dimgray",
-            "black"
+            "silver"
         ],
         "Type 1": "Ground",
         "Generation": 2.0,
@@ -19981,10 +19981,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "snow",
-            "silver",
             "dimgray",
-            "rosybrown"
+            "rosybrown",
+            "silver",
+            "antiquewhite"
         ],
         "Type 1": "Dragon",
         "Generation": 7.0,
@@ -20007,10 +20007,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "darkseagreen",
             "dimgray",
-            "tan",
-            "silver",
-            "black"
+            "lightcoral",
+            "silver"
         ],
         "Type 1": "Grass",
         "Generation": 3.0,
@@ -20059,10 +20059,10 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
+            "sienna",
             "palegoldenrod",
-            "peru",
-            "burlywood",
-            "darkolivegreen"
+            "sandybrown",
+            "silver"
         ],
         "Type 1": "Fire",
         "Generation": 3.0,
@@ -20087,8 +20087,8 @@
         "Predominant color": [
             "pink",
             "rosybrown",
-            "mistyrose",
-            "black"
+            "gray",
+            "darkgray"
         ],
         "Type 1": "Water",
         "Generation": 1.0,
@@ -20111,8 +20111,8 @@
         "Image is Animated": false,
         "Frames in Image": 1,
         "Predominant color": [
-            "sienna",
             "goldenrod",
+            "sienna",
             "palegoldenrod",
             "silver"
         ],
@@ -20139,7 +20139,7 @@
         "Predominant color": [
             "steelblue",
             "silver",
-            "darkslateblue",
+            "steelblue",
             "silver"
         ],
         "Type 1": "Dragon",
@@ -20164,9 +20164,9 @@
         "Frames in Image": 1,
         "Predominant color": [
             "mistyrose",
-            "rosybrown",
-            "thistle",
-            "silver"
+            "gray",
+            "silver",
+            "black"
         ],
         "Type 1": "Psychic",
         "Generation": 1.0,
